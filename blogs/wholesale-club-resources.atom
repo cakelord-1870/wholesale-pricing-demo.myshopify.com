@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources.atom"/>
+  <title>Wholesale Club by Pixel Union - Wholesale Club Resources</title>
+  <updated>2021-02-24T15:27:15-05:00</updated>
+  <author>
+    <name>Wholesale Club by Pixel Union</name>
+  </author>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources/net-terms</id>
+    <published>2021-02-24T15:27:15-05:00</published>
+    <updated>2021-03-30T10:37:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources/net-terms"/>
+    <title>Net Terms</title>
+    <author>
+      <name>Pixel Union Developers</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8"><span>Delaying your customer’s payment when an order is made is a common requirement for wholesale stores and our Net Terms feature addition builds in this control. Once this feature is set up, by tagging customers with a specific net terms tag your customer will be able to submit their order on the Cart page and skip the checkout.</span><p><a class="read-more" href="https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources/net-terms">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/BuQMGvtK18o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> <meta charset="utf-8">
+<p> </p>
+<p><span style="font-weight: 400;">Delaying your customer’s payment when an order is made is a common requirement for wholesale stores and our Net Terms feature addition builds in this control. Once this feature is set up, by tagging customers with a specific net terms tag your customer will be able to submit their order on the Cart page and skip the checkout. As you set this feature up, you will be able to set if the order comes through as a Draft order or Final order. </span></p>
+<p><span style="font-weight: 400;">Once the order is placed, you can manage it as you see fit. By choosing the Draft order setting, you can also send out an invoice later on to accept payment. The app doesn’t interfere with the order once it’s placed so that each store can work with their specific structure. </span></p>
+<meta charset="utf-8">
+<p><span style="font-weight: 400;">There’s a lot of nuance to this feature so we have a lot of information in our Help Center, including: </span></p>
+<ul>
+<li style="font-weight: 400;"><a href="https://support.pixelunion.net/hc/en-us/articles/360023062294-Using-Net-Terms" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">Using Net Terms</span></a></li>
+<li style="font-weight: 400;"><a href="https://support.pixelunion.net/hc/en-us/articles/360024225253-Net-Terms-customers" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">Net Terms customers</span></a></li>
+<li style="font-weight: 400;"><a href="https://support.pixelunion.net/hc/en-us/articles/360024061254-Managing-Net-Terms-orders" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">Managing Net Terms orders</span></a></li>
+</ul>
+<hr>
+<h3><span style="font-weight: 400;">Storefront testing</span></h3>
+<p><span style="font-weight: 400;">In our demo here, if you log into the <strong>Gold</strong> customer account you will see the Net Terms button on the <strong>cart page</strong>! </span></p>
+<hr>
+<p><span style="font-weight: 400;">Due to the code needed to integrate this form into your theme, this isn’t included in the 14-day trial of Wholesale Club. </span></p>
+<p><span style="font-weight: 400;">If the demo looks like a good fit, we recommend purchasing the feature addition through </span><span style="font-weight: 400;">our site</span><span style="font-weight: 400;"> and having our team install the code. If you have any questions leading up to the install, let us know at info@pixelunion.net</span></p>
+<p> </p>
+<p style="text-align: center;"><a href="https://pxu.co/wholesale-club" rel="noopener noreferrer" class="btn" target="_blank">Download the app!</a>        <a href="https://pxu.co/who-demo-addons" rel="noopener noreferrer" class="btn btn--secondary" target="_blank">Purchase the feature</a></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources/quick-order-form</id>
+    <published>2021-02-24T15:27:15-05:00</published>
+    <updated>2021-04-06T10:17:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources/quick-order-form"/>
+    <title>Quick Order Form</title>
+    <author>
+      <name>Pixel Union Developers</name>
+    </author>
+    <content type="html">
+      <![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/ur7pkN2U0Us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<meta charset="utf-8">
+<p> </p>
+<p><span style="font-weight: 400;">Wholesale buyers typically know what they want and the quantity they need. We’re here to help improve their shopping experience with the Quick Order Form feature addition. Once set up, this will pull in your products to a single list, with expandable sections if there are variants to choose between. It’s worth noting that this form isn’t specialized enough to offer repeat orders.</span></p>
+<hr>
+<h3><span style="font-weight: 400;">Storefront testing</span></h3>
+<p><a href="https://wholesale-pricing-demo.myshopify.com/collections/quick-order" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">Click here</span></a><span style="font-weight: 400;"> to see the feature in action! You can control the products in this form. </span><a href="https://support.pixelunion.net/hc/en-us/articles/360033800833-Using-the-Quick-Order-Form" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">That’s covered here</span></a><span style="font-weight: 400;"> with the full setup steps as well. </span></p>
+<hr>
+<p><span style="font-weight: 400;">Due to the code needed to integrate this form into your theme, this isn’t included in the 14-day trial of Wholesale Club. </span></p>
+<p><span style="font-weight: 400;">If the demo looks like a good fit, we recommend purchasing the feature addition through </span><span style="font-weight: 400;">our site </span><span style="font-weight: 400;">and having our team install the code. If you have any questions leading up to the install, let us know at info@pixelunion.net!</span></p>
+<p> </p>
+<p style="text-align: center;"><a href="https://pxu.co/wholesale-club" rel="noopener noreferrer" class="btn" target="_blank">Download the app!</a>        <a href="https://pxu.co/who-demo-addons" rel="noopener noreferrer" class="btn btn--secondary" target="_blank">Purchase the feature</a></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources/advanced-minimums</id>
+    <published>2021-02-24T15:27:15-05:00</published>
+    <updated>2021-04-14T15:10:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources/advanced-minimums"/>
+    <title>Order Minimums &amp; Advanced Minimums</title>
+    <author>
+      <name>Pixel Union Developers</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8"><span style="font-weight: 400;">Wholesale Club comes with some built in minimums settings, allowing you to set a minimum order quantity or cart value a customer must meet before placing an order.</span><span style="font-weight: 400;"><span> </span>You can also vary the requirements per customer group!</span><p><a class="read-more" href="https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources/advanced-minimums">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/aQ-XfDL8yWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<meta charset="utf-8"><meta charset="utf-8">
+<p style="text-align: left;"><span style="font-weight: 400;"><strong>Order Minimums</strong></span></p>
+<p style="text-align: left;"><span style="font-weight: 400;">Wholesale Club comes with some built in minimums settings, allowing you to set a minimum order quantity or cart value a customer must meet before placing an order.</span><span style="font-weight: 400;"> You can also vary the requirements per customer group! </span></p>
+<p style="text-align: center;"><a href="https://support.pixelunion.net/hc/en-us/articles/360034082954-Creating-Order-Minimum-rules" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">We cover those specifics </span><span style="font-weight: 400;">in an article here</span></a></p>
+<p style="text-align: center;"> </p>
+<img src="https://cdn.shopify.com/s/files/1/0001/8140/3690/files/orderminimums_1024x1024.jpg?v=1615333235" alt=""><br>
+<p> </p>
+<p><b>Advanced Minimums</b></p>
+<meta charset="utf-8">
+<p><span>If you need more control, our Advanced Minimums feature addition allows you to select between targeting collection minimums, product minimums, or variant minimums! Here are some examples:</span></p>
+<ul>
+<li><span>By selecting Collections, the amount you set will require your customer to reach that total of items from the collection. For example, 6 towels and 6 pillowcases from the Bed and Bath Collection to hit the required 12</span></li>
+<li><span>By selecting Products, the amount you set will require your customer to reach that total of each product within that collection. For example, 12 towels from the Bed and Bath Collection to hit the required 12</span></li>
+<li>
+<span>By selecting Variants, the amount you set will require your customer to reach that total of each variant within a product within the collection. For example, 12 </span><b>blue</b><span> towels from the Bed and Bath Collection to hit the required 12</span>
+</li>
+</ul>
+<p style="text-align: center;"><span><a href="https://support.pixelunion.net/hc/en-us/articles/360034840274-Using-Advanced-Minimums" target="_blank" rel="noopener noreferrer">We have an article to walk through the setup!</a></span></p>
+<p style="text-align: center;"> </p>
+<p><b><img src="https://cdn.shopify.com/s/files/1/0001/8140/3690/files/advancedminimums_1024x1024.jpg?v=1615333294" alt=""></b></p>
+<hr>
+<h3><span style="font-weight: 400;">Storefront testing</span></h3>
+<p><span style="font-weight: 400;">Logging in as a Silver customer will require a minimum cart total (before discounts) of $500 which is set by the standard order minimum functionality. So any products will count towards this minimum. If the minimum is not hit, a message will show on the Cart page and the discount will not yet apply. </span></p>
+<p><span style="font-weight: 400;">Logging in as a Gold customer, if you add anything from the </span><a href="https://wholesale-pricing-demo.myshopify.com/collections/bed-bath-1" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">Bed and Bath collection</span></a><span style="font-weight: 400;">, you will need to add 12 of each product, with a mix of variants if you’d like! If this target is not met a message will show in the cart, the discount won’t apply, and the checkout button will be hidden.</span></p>
+<hr>
+<p><span style="font-weight: 400;">The level up you get with the Advanced Minimums functionality is included in our 14-day trial of Wholesale Club so you can test before subscribing. </span></p>
+<p><span style="font-weight: 400;">If it’s a good fit, you can purchase Advanced Minimums for a one-time fee of $99 </span><span style="font-weight: 400;">through our site</span><span style="font-weight: 400;"> and our team can activate it! </span></p>
+<p> </p>
+<p style="text-align: center;"><a href="https://pxu.co/wholesale-club" rel="noopener noreferrer" class="btn" target="_blank">Download the app!</a>        <a href="https://pxu.co/who-demo-addons" rel="noopener noreferrer" class="btn btn--secondary" target="_blank">Purchase the feature</a></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources/volume-discounts</id>
+    <published>2021-02-24T15:27:15-05:00</published>
+    <updated>2021-04-14T15:08:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources/volume-discounts"/>
+    <title>Volume Discounts</title>
+    <author>
+      <name>Pixel Union Developers</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8"><span>Many merchants need a base discount their customers can see as soon as they log in to the storefront. They also like to offer some more incentive to increase the order total. Our Volume Discounts feature addition has them covered!</span><p><a class="read-more" href="https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources/volume-discounts">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/1CvA-dmdCoU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<meta charset="utf-8">
+<p><span style="font-weight: 400;">Many merchants need a base discount their customers can see as soon as they log in to the storefront. They also like to offer some more incentive to increase the order total. Our Volume Discounts feature addition has them covered!</span></p>
+<p><span style="font-weight: 400;">With this feature, you can </span><span style="font-weight: 400;">apply an additional discount on top of your wholesale price</span><span style="font-weight: 400;"> if a customer hits your targets. These discounts will apply to all logged-in customers so if you set an additional 5% off at the $500 mark, it will take 5% off each customer group like Gold and Silver. </span></p>
+<p> </p>
+<p><img src="https://cdn.shopify.com/s/files/1/0001/8140/3690/files/volume_discounts_1024x1024.jpg?v=1615333505" alt=""></p>
+<p> </p>
+<p><span style="font-weight: 400;">For example, say the original discount for Gold-tier customers is 40% off select collections and Silver-tier customers is 30% off the same collections. If Volume Discounts is set to 5% off if the cart total reaches $500, customers in both groups will get an extra discount. Gold-tier customers will get 45% off and Silver-tier customers will get 35%.</span></p>
+<meta charset="utf-8">
+<p style="text-align: center;"><span style="font-weight: 400;"><a href="https://support.pixelunion.net/hc/en-us/articles/360034369773-Using-Volume-Discounts" target="_blank" rel="noopener noreferrer">Our article here<span> </span>covers the nitty-gritty!</a></span></p>
+<hr>
+<h3><span style="font-weight: 400;">Storefront testing</span></h3>
+<p><span style="font-weight: 400;">On our demo here, you can see the additional 5% come off if your cart total hits the $500 discounted cart mark— for <strong>both</strong> Silver and Gold customers! </span></p>
+<span style="font-weight: 400;">The trigger doesn’t need to be cart total, you can also target cart product quantity and single product quantity.</span><hr>
+<p><span style="font-weight: 400;">This feature is included in our 14-day trial of Wholesale Club so you can test before subscribing. If it’s a good fit, you can purchase the feature addition </span><span style="font-weight: 400;">through our site</span><span style="font-weight: 400;"> and our team can activate it!</span></p>
+<p> </p>
+<p style="text-align: center;"><a href="https://pxu.co/wholesale-club" rel="noopener noreferrer" class="btn" target="_blank">Download the app!</a>        <a href="https://pxu.co/who-demo-addons" rel="noopener noreferrer" class="btn btn--secondary" target="_blank">Purchase the feature</a></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources/custom-prices</id>
+    <published>2021-02-24T15:27:15-05:00</published>
+    <updated>2021-04-06T10:18:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources/custom-prices"/>
+    <title>Custom Prices</title>
+    <author>
+      <name>Pixel Union Developers</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8"><span>Do your customers require a new set price per product instead of a percentage discount or a collection targeted discount? Our Custom Prices feature addition allows for granular control for each individual product </span><span>SKU</span><span> to balance nicely with our default functionality! </span><p><a class="read-more" href="https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources/custom-prices">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/M-SO_ApVLWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<p> </p>
+<p><span style="font-weight: 400;">Do your customers require a new set price per product instead of a percentage discount or a collection targeted discount? Our Custom Prices feature addition allows for granular control for each individual product SKU to balance nicely with our default functionality! </span></p>
+<p><span style="font-weight: 400;">This feature addition is also great if your prices change often. With Custom Prices you can use a CSV file to speed up pricing updates for large catalogs.</span></p>
+<p><span style="font-weight: 400;">As a merchant, you will be able to set different prices, per product, for each customer group so this gives you a lot of control to get the discounts just right!  </span></p>
+<meta charset="utf-8">
+<p style="text-align: center;"><a href="https://support.pixelunion.net/hc/en-us/articles/360021576374-Adding-Custom-Prices" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">We have an article<span> </span>to walk you through the setup!</span></a></p>
+<p> </p>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0001/8140/3690/files/customprices1_1024x1024.jpg?v=1615332717" alt="" style="float: none;"></div>
+<img src="https://cdn.shopify.com/s/files/1/0001/8140/3690/files/customprices2_1024x1024.jpg?v=1615332758" alt=""><br><hr>
+<h3><span style="font-weight: 400;">Storefront testing</span></h3>
+<p><span style="font-weight: 400;">See Custom Prices in action in our</span> <a href="https://wholesale-pricing-demo.myshopify.com/collections/tech" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">Tech</span></a><span style="font-weight: 400;"> and </span><a href="https://wholesale-pricing-demo.myshopify.com/collections/bestsellers" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">Bestsellers</span></a><span style="font-weight: 400;"> collections. This is a feature that will make updating and maintaining prices per product much easier on your end, with the same consistent experience for your customers on your storefront. </span></p>
+<hr>
+<p><span style="font-weight: 400;">This feature is included in our 14-day trial of Wholesale Club so you can test before subscribing. </span></p>
+<p><span style="font-weight: 400;">If it’s a good fit, you can purchase Custom Prices for a one-time fee of $99 </span><span style="font-weight: 400;">through our site</span><span style="font-weight: 400;"> and our team can activate it! </span></p>
+<p> </p>
+<p style="text-align: center;"><a href="https://pxu.co/wholesale-club" rel="noopener noreferrer" class="btn" target="_blank">Download the app!</a>        <a href="https://pxu.co/who-demo-addons" rel="noopener noreferrer" class="btn btn--secondary" target="_blank">Purchase the feature</a></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources/theme-integration</id>
+    <published>2021-02-24T15:27:15-05:00</published>
+    <updated>2021-03-23T14:37:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources/theme-integration"/>
+    <title>Theme integration</title>
+    <author>
+      <name>Pixel Union Developers</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8"><span style="font-weight: 400;">Wholesale Club requires code to be injected into the theme file of your choice.<span> </span></span><span style="font-weight: 400;">When you run Wholesale Club's Theme Setup tool, the app will create an exact copy of your requested theme and install the app's code on that copy.</span><p><a class="read-more" href="https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources/theme-integration">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p><span style="font-weight: 400;">Wholesale Club requires code to be injected into the theme file of your choice. </span><span style="font-weight: 400;">When you run Wholesale Club's Theme Setup tool, the app will create an exact copy of your requested theme and install the app's code on that copy. This leaves your original theme untouched, giving you a safe backup.</span></p>
+<p><span style="font-weight: 400;">Once you’ve run the Theme Setup tool, use </span><a href="https://support.pixelunion.net/hc/en-us/articles/360043128813-Wholesale-Club-theme-setup-checklist-" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">our checklist here</span></a><span style="font-weight: 400;"> to make sure everything is running smoothly. The checklist covers setting up some discounts, setting up customers and testing some common issues that can come up in the storefront! </span></p>
+<p><span style="font-weight: 400;">Looking for a theme that has a seamless wholesale experience for your customers? Our Superstore theme was built to integrate nicely with our app and leverage exciting additions like accurate fly-out cart content and styling that matches your Theme editor settings! </span></p>
+<p><span style="font-weight: 400;"><a href="https://superstore-theme-interior.myshopify.com/" target="_blank" rel="noopener noreferrer">Check out our Superstore Interior demo</a> with Wholesale Club installed!</span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources/app-compatibility</id>
+    <published>2021-02-24T15:27:15-05:00</published>
+    <updated>2021-03-12T13:50:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources/app-compatibility"/>
+    <title>App compatibility</title>
+    <author>
+      <name>Pixel Union Developers</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<span style="font-weight: 400;">We definitely understand that merchants can require several apps to get all the functionality they need. Our app does interact with some pretty important areas so that can cause some compatibility issues if other apps are trying to work with the same areas.</span><p><a class="read-more" href="https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources/app-compatibility">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p><span style="font-weight: 400;">We definitely understand that merchants can require several apps to get all the functionality they need. Our app does interact with some pretty important areas so that can cause some compatibility issues if other apps are trying to work with the same areas. App code and functionality can change so we won’t be listing specific apps here but we can flag some common areas of overlap!</span></p>
+<hr>
+<h3><span style="font-weight: 400;">Discount field</span></h3>
+<p><span style="font-weight: 400;">Shopify has a single discount field in the Checkout. This means that apps tend to compete over this field if they are all trying to give a discount in some way. Wholesale Club also uses this field which means that other apps that offer discounts for products, loyalty programs, etc, can butt heads. </span></p>
+<p><span style="font-weight: 400;">For Shopify’s discount codes, we do have an option to add a field to your Cart page instead, and this bundles all the discounts together in the Checkout so it can work smoothly. If you’re using the Shopify automatic discounts, those won’t be able to combine with the wholesale discounts. </span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">Tip: If you want to offer discounts to your retail customers and skip your wholesale customers, our Ultimate Special Offers app can block discounts from specific logged-in customers so you can add in your Wholesale Club customer tags and keep the two discount worlds separate! </span></p>
+<hr>
+<h3><span style="font-weight: 400;">Checkout</span></h3>
+<p><span style="font-weight: 400;">As mentioned, we use the Shopify discount field to apply wholesale prices properly. That means we rely on the standard Shopify Checkout flow to work smoothly. A number of apps create a different checkout process to support their functionality so in this case, these apps will conflict with Wholesale Club</span></p>
+<hr>
+<h3><span style="font-weight: 400;">Products and Collections</span></h3>
+<p><span style="font-weight: 400;">This is a broad group and can include a wide range of apps, but if an app is altering prices or templates it can cause some issues with Wholesale Club. We rely on a standard structure to apply the right discount for each customer group. If these apps are in use, our app doesn’t have the connections it’s expecting to update and apply discounts as needed. This can include apps that:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Create new product or collection templates. For example, adding new product variants</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Alter the prices of products. Like Loyalty programs or other discount apps</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Add pre-order functionality</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Build new pages. For example, Page builder apps sometimes use Javascript which prevents us from showing Wholesale Club prices. </span></li>
+</ul>
+<hr>
+<h3><span style="font-weight: 400;">Product syncs</span></h3>
+<p><span style="font-weight: 400;">This is a more specific type of app that updates your product information in the Shopify admin. With these updates, Wholesale Club will need to update as well. If an app is doing this automatically and frequently, it can create a sync backlog and pricing issues. Knowing which apps update your product information and how frequently will help see if this could be an issue down the road! </span></p>
+<hr>
+<h3><span style="font-weight: 400;">Other Wholesale apps</span></h3>
+<p><span style="font-weight: 400;">It’s a great idea to make a duplicate theme file before testing out apps so that you aren’t layering code from different apps. It’s normal to want to compare some apps to make sure you have the best fit, but wholesale apps are a bit tricky. They all typically overlap in similar areas and can make each app break as a result. We highly recommend testing one at a time and adding app code to theme files that do not have other wholesale app code left behind. Even when an app is uninstalled from your admin, it can leave code behind in your theme so the duplicate backup can help save you a lot of testing and troubleshooting!</span></p>
+<p> </p>
+<p style="text-align: center;"><a href="https://pxu.co/wholesale-club" rel="noopener noreferrer" class="btn" target="_blank">Download the app!</a></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources/faq</id>
+    <published>2021-02-24T15:27:15-05:00</published>
+    <updated>2021-03-17T18:37:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources/faq"/>
+    <title>Common questions</title>
+    <author>
+      <name>Pixel Union Developers</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h3><span style="font-weight: 400;">Can I override shipping rates?</span></h3>
+<p><span style="font-weight: 400;">Wholesale Club tries to leave as much of your Shopify Admin settings as stable as possible. This means we don’t interfere much with your Shipping settings and your retail and wholesale customers will see the same shipping rates. </span></p>
+<p><span style="font-weight: 400;">One area in our app which offers further control is the Extra Fees section. This is a flexible setting that can help you add service fees and it can also add fees for shipping. We also have the option to force ‘free shipping’ which does wipe the default shipping but we aren’t able to get more granular than that. For some more information, the settings are covered </span><a href="https://support.pixelunion.net/hc/en-us/articles/360033932674-Extra-fees" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">here</span></a><span style="font-weight: 400;">.</span></p>
+<hr>
+<h3><span style="font-weight: 400;">Can I change the default tax settings?</span></h3>
+<p><span style="font-weight: 400;">Taxes are strictly managed by your Shopify admin, and wholesale customers will see the same taxes in the checkout as your retail customers.</span></p>
+<p><span style="font-weight: 400;">If you use our </span><a href="https://support.pixelunion.net/hc/en-us/sections/360004491453-Net-Terms-payment-options" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">Net Terms feature addition</span></a><span style="font-weight: 400;"> and have net orders come in as drafts, you can edit the tax rate before sending an invoice through your Shopify admin. </span><span style="font-weight: 400;">For more information, <a href="https://help.shopify.com/en/manual/orders/create-orders#add-or-remove-taxes">click here.</a></span><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Wholesale Club can’t pick up on special tax rates set up in Shopify like VAT, and these won’t be shown in the checkout for wholesale customers. While our team can sometimes assist with cosmetic changes to show VAT calculations on product pages or collection pages, any other VAT customizations are best left to a Shopify Expert from storetasker.com. </span></p>
+<hr>
+<h3><span style="font-weight: 400;">Does Wholesale Club work with Shopify POS?</span></h3>
+<p><span style="font-weight: 400;">Wholesale Club can be used on the Shopify POS app! It doesn’t have the same requirements as the online store so the Quick Order Form and Net Terms features don’t have overlap in the app. In this case, as the order is built by your sales team, the app can be selected to apply and you would need to select the customer as well! We go into more detail in our article </span><a href="https://support.pixelunion.net/hc/en-us/articles/360036795193-Creating-wholesale-orders-with-Shopify-POS" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">here</span></a><span style="font-weight: 400;">.</span></p>
+<hr>
+<h3><span style="font-weight: 400;">Can I hide products?</span></h3>
+<p><span style="font-weight: 400;">Currently, Wholesale Club isn’t able to block or hide any products. We pull from all the available products in your Shopify admin. We do chat with merchants who are looking to hide certain products until a customer logs in and we recommend </span><a href="https://apps.shopify.com/locksmith" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">Locksmith</span></a><span style="font-weight: 400;"> for that control! Both our apps rely on a similar setup with customer tags so they work well together! </span></p>
+<hr>
+<h3><span style="font-weight: 400;">Can I automate the customer account setup?</span></h3>
+<p><span style="font-weight: 400;">Our app uses the Shopify Customer Account structure to build up your customer groups. This connects each B2B merchant with their email address and password so they can log in and see their prices. To set up each customer requires adding a tag to their account and we don’t currently have a way to automate this in our app. There are a couple of options if this could really save you some time. One option is to have a form that can apply the tag based on conditional responses — for this we recommend </span><a href="https://customr.heliumdev.com/billing/referral?code=WHOLESALE_CLUB" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">Customer Fields</span></a></p>
+<hr>
+<h3><span style="font-weight: 400;">Can I use Dynamic checkout buttons like PayPal? Can I use Ajax carts?</span></h3>
+<p><span style="font-weight: 400;">Wholesale Club relies on the flow between the product page all the way through to the checkout. This means that your customer needs to be sent through to the cart page, then the standard Shopify checkout. Dynamic checkout buttons interrupt this flow and can prevent the proper discounts from applying so we recommend disabling them. </span></p>
+<p><span style="font-weight: 400;">For fly-out and Ajax carts, the price is a lot harder for us to override. This can create a confusing experience for your customers if they don't see the price they are expecting. This demo using Debut is an exception, you can see the fly-out cart works because the price isn't visible. For many themes we do recommend redirecting your customer to the full cart page for the best experience!</span></p>
+<hr>
+<h3><span style="font-weight: 400;">How do syncs work when I update my products in the Shopify admin?</span></h3>
+<p><span style="font-weight: 400;">We want to make sure that when you make changes to your products and collections, that Wholesale Club will update as well. Our app will sync the new information when you:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">I</span><span style="font-weight: 400;">nstall the app</span>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Create/update/delete a wholesale discount</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Add or remove a product from your admin</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Updating any product meta fields</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Add or remove a product from a collection</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Delete a collection connected with a wholesale discount</span></li>
+</ul>
+<p><span style="font-weight: 400;">In the app admin you can see the status of a sync. It’s worth noting that if you have a large inventory, making a lot of updates at once can increase your sync time. Our team recommends planning for large product uploads overnight or during slow periods to give oue app time to sync. </span></p>
+<p><span style="font-weight: 400;">More specifically, we are confined to the </span><a href="https://shopify.dev/concepts/about-apis/rate-limits" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">Shopify Rate Limits</span></a><span style="font-weight: 400;">. So we can only process 2 jobs per second and we can only go as fast as the API allows us. This means you can gauge sync times roughly by multiplying 2 seconds by the amount of products you are updating or adding. </span></p>
+<p><span style="font-weight: 400;">Tip: Some apps can trigger frequent product syncs as well! We cover app compatibility more <a href="https://wholesale-pricing-demo.myshopify.com/blogs/wholesale-club-resources/app-compatibility" target="_blank" title="App compatibility" rel="noopener noreferrer">here</a>.</span></p>
+<p> </p>
+<p style="text-align: center;"><a href="https://pxu.co/wholesale-club" rel="noopener noreferrer" class="btn" target="_blank">Download the app!</a></p>]]>
+    </content>
+  </entry>
+</feed>

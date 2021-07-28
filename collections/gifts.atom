@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesale-pricing-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesale-pricing-demo.myshopify.com/collections/gifts.atom"/>
+  <title>Wholesale Club by Pixel Union</title>
+  <updated>2018-02-26T17:27:35-05:00</updated>
+  <author>
+    <name>Wholesale Club by Pixel Union</name>
+  </author>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286385401898</id>
+    <published>2018-02-26T17:27:35-05:00</published>
+    <updated>2018-02-26T17:27:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/1-how-many-people-does-it-take"/>
+    <title>1: How Many People Does It Take...?</title>
+    <s:type>Book</s:type>
+    <s:vendor>Dan Zadra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/1-_How_Many_People_Does_It_Take..._1.jpg?v=1519684059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dan Zadra<br>
+        <strong>Type: </strong>Book<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>How many times have we asked ourselves, does what I do matter? Can one person really have an impact on the world?<br><br>This beautifully designed book not only answers those questions with a resounding "Yes!", but you'll also find yourself motivated to go out and start making a difference. It's full of inspirational messages that range from quotes, to poems, to statistics, to movie dialogue. There are pages with thinking exercises and blanks to fill in, so that you can start creating a vision for your life even as you read. The book has no pictures, yet the pages are so colorful and the typography so inventive that the words themselves become captivating illustrations. One insightful book has the power to make a lasting impact on your, or anyone at one of life's crossroads. Printed in China.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Books</s:tag>
+    <s:tag>Interest_Reading</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286385401898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>SKU9995</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286385369130</id>
+    <published>2018-02-26T17:27:33-05:00</published>
+    <updated>2018-02-26T17:27:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/10-whats-on-your-list"/>
+    <title>10: What&apos;s On Your List...?</title>
+    <s:type>Book</s:type>
+    <s:vendor>Dan Zadra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/10_What_s_On_Your_List..._1.jpg?v=1519684055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dan Zadra<br>
+        <strong>Type: </strong>Book<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>In our busy day-to-day lives, we often lose sight of the things that matter. Keep track of the top tens in your life with this wonderfully inspirational book. Beautifully designed and filled with uplifting quotes, this book makes you sit down and reflect on all areas of life, whether it be your favorite books, albums, or the ten dreams you'd most like to pursue. Watch what happens when creativity flows and you finally feel inspired to write down the life lists that have been on the backburner for far too long. Just put those choices to paper, and you're on your way. Printed in China.</span></p>
+<meta charset="utf-8">
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Books</s:tag>
+    <s:tag>Interest_Reading</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286385369130</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>SKU9996</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286385336362</id>
+    <published>2018-02-26T17:27:32-05:00</published>
+    <updated>2018-02-26T17:27:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/5-life-playbook"/>
+    <title>5: Life Playbook</title>
+    <s:type>Book</s:type>
+    <s:vendor>Dan Zadra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/5_Life_Playbook.jpg?v=1519684053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dan Zadra<br>
+        <strong>Type: </strong>Book<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The next five years can be the most exciting and satisfying years of your life - or just another five years. This "playbook for life" features thought-provoking quotations and real-life examples to serve as both a spark and a road map for your life. It encourages you to celebrate and embrace the "want to's", the "choose to's", and the "I can't wait to's" in your life.</p>
+<p>Whether you're finishing school, starting in a new city, celebrating a milestone or envisioning your retirement - make the next five years count! Printed in China.</p>
+<meta charset="utf-8">
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Books</s:tag>
+    <s:tag>Interest_Reading</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286385336362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>SKU9993</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286385303594</id>
+    <published>2018-02-26T17:27:27-05:00</published>
+    <updated>2018-02-26T17:27:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/642-things-to-write-about"/>
+    <title>642 Things to Write About</title>
+    <s:type>Book</s:type>
+    <s:vendor>Po Bronson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/642_Things_to_Write_About_1.jpg?v=1519684052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Po Bronson<br>
+        <strong>Type: </strong>Book<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>For many people, creative writing sounds fun but intimidating. "I'm not good at that," they think, without even knowing where they’d start. Experienced writers, on the other hand, may know exactly where to start, but have plenty of other excuses for not putting pen to paper: too busy, too tired, or the dreaded "writer's block". <br><br>The solution for both is the same: just start writing. This handy workbook will give you plenty of fun, low-pressure opportunities for you to get your imagination flowing. Collected from the minds and notebooks of the San Francisco Writers' Grotto, the book's prompts range from personal reflection, to silly lyric writing, to character development, and everything in between and beyond. Take them seriously or just have fun. Grab a pen, open this book to any page, and find the writer inside you. Printed in China.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Books</s:tag>
+    <s:tag>Interest_Reading</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286385303594</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>SKU9992</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286385139754</id>
+    <published>2018-02-26T17:27:23-05:00</published>
+    <updated>2018-02-26T17:27:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/7-how-many-days"/>
+    <title>7: How Many Days...?</title>
+    <s:type>Book</s:type>
+    <s:vendor>Dan Zadra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/7-_How_Many_Days..._1.jpg?v=1519684047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dan Zadra<br>
+        <strong>Type: </strong>Book<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>One of our greatest illusions is that "someday" we will have more time to savor and enjoy the things we really love, but 30,000 mornings (give or take) is all we're given. Happiness comes when we realize that life is more than just marking time - it's an adventure! </span><br><br><span>This thought-provoking book is designed to be your wake-up call, your guide and inspiration. It's full of compelling messages that range from quotes and poems to eye-opening statistics. There are pages with thinking exercises and blanks to fill in, so that you can start contemplating your aspirations even as you read. The book has no pictures, yet the typography is so engaging that the words themselves become captivating illustrations. This one insightful book has the power to make a lasting impact by reminding you that there is no such thing as an insignificant day. Printed in China.</span></p>
+<meta charset="utf-8">
+<p><span>This is a demo store. You can purchase products like this from <a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Books</s:tag>
+    <s:tag>Interest_Reading</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286385139754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>SKU9991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286384877610</id>
+    <published>2018-02-26T17:27:12-05:00</published>
+    <updated>2018-02-26T17:27:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/appetizer-serving-set"/>
+    <title>Appetizer Serving Set</title>
+    <s:type>Serving Set</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Appetizer_Serving_Set_1.jpg?v=1519684036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Serving Set<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This bamboo and porcelain set serves up tempting portions of form with savory sides of function. The semicircular main bowl is ideal for crackers or crostini, while the smaller bowls hold condiments, dips, or spreads in an integrated arc. In the center, six porcelain-tipped picks wait to skewer the perfect olive. Set includes </span><span>6 steel cocktail picks, </span><span>3 small condiment bowls, </span><span>1 medium condiment bowl, </span><span>1 bamboo lid for picks, </span><span>1 c-shaped condiment bowl, and </span><span>1 wooden tray. Made in China.</span></p>
+<meta charset="utf-8">
+<p><span>This is a demo store. You can purchase products like this from <a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Housewarming</s:tag>
+    <s:tag>Interest_Cooking</s:tag>
+    <s:tag>Interest_Entertaining</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286384877610</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku>SKU9983</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286384779306</id>
+    <published>2018-02-26T17:27:11-05:00</published>
+    <updated>2018-02-26T17:27:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/a-mothers-love"/>
+    <title>A Mother&apos;s Love</title>
+    <s:type>Print</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/A_Mother_s_Love.jpg?v=1519684032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>An embrace between a mother and child is always a picture-perfect moment. Based on her original hand-carved woodblock prints, this sweet scene by </span>Rachel Kroh<span> is printed on an Indigo press, a digital process that creates vivid, matte prints that are remarkably true to the original image. The charming print makes a great gift for mothers and mothers-to-be, or a lovely addition to a nursery or child's bedroom. Made in Indiana. </span></p>
+<meta charset="utf-8">
+<p><span>This is a demo store. You can purchase products like this from <a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Books</s:tag>
+    <s:tag>Interest_Art</s:tag>
+    <s:tag>Product Sustainability_Handmade</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286384779306</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku>SKU9990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286384418858</id>
+    <published>2018-02-26T17:27:00-05:00</published>
+    <updated>2018-02-26T17:27:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/anywhere-travel-guide"/>
+    <title>Anywhere Travel Guide</title>
+    <s:type>Game</s:type>
+    <s:vendor>Magda Lipka Falck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Anywhere_Travel_Guide.jpg?v=1519684021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magda Lipka Falck<br>
+        <strong>Type: </strong>Game<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Certain travel guides can get repetitive: see museums, see buildings, and dine at recommended eateries. Rest and repeat. Add equal parts exploration and adventure to your next travel destination or rediscover a familiar getaway with the Anywhere Travel Guide. Make a game out of your wanderlust with these 75 unique and interactive prompts written on cards. The only rules are to pick a card, follow the instructions, and see what happens. With prompts like "walk down the street in a strange way" or to ask a stranger his/her favorite street and go there, your next vacation will be anything but ordinary. Printed in China.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20</s:tag>
+    <s:tag>Interest_Entertaining</s:tag>
+    <s:tag>Interest_Travel</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286384418858</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>SKU9984</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286383960106</id>
+    <published>2018-02-26T17:26:46-05:00</published>
+    <updated>2018-02-26T17:26:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/beta-release-babysuit"/>
+    <title>Beta Release Babysuit</title>
+    <s:type>Babysuit</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Beta_Release_Babysuit.jpg?v=1519684007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Babysuit<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Brand your exclusive new release with this screen printed babysuit. Humans in the beta phase will generally have more bugs than completed versions, as well as speed/performance issues and frequent crashes, so alert all users to the exciting but incomplete nature of your release. This soft wear features open source architecture at both ends, for easy uploading and downloading. Made in China.</span></p>
+<meta charset="utf-8">
+<p><span>This is a demo store. You can purchase products like this from <a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20</s:tag>
+    <s:tag>Interest_Funny</s:tag>
+    <s:tag>Interest_Geek</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286383960106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SKU9970</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286383173674</id>
+    <published>2018-02-26T17:26:23-05:00</published>
+    <updated>2018-02-26T17:26:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/banned-book-socks"/>
+    <title>Banned Book Socks</title>
+    <s:type>Socks</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Banned_Book_Socks.jpg?v=1519683987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Socks<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><i>The Great Gatsby</i><span>, </span><i>Lord of the Flies</i><span>, </span><i><i>To Kill a Mockingbird</i></i><i><i><em>—</em></i></i>they all might be well-loved classics, but they have something else in common: they were all banned books at one point. Featuring the previously-banned titles on one sock and bold crossed out "censoring" on the other, this literary set is perfect for the book lover with a taste for breaking the rules. Made in China.</p>
+<meta charset="utf-8">
+<p><span>This is a demo store. You can purchase products like this from <a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20</s:tag>
+    <s:tag>Interest_Reading</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286383173674</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>SKU9976</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286383042602</id>
+    <published>2018-02-26T17:26:21-05:00</published>
+    <updated>2018-02-26T17:26:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/buddha-bowl"/>
+    <title>Buddha Bowl</title>
+    <s:type>Bowl</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Buddha_Bowl.jpg?v=1519683982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Bowl<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>Enjoy a moment of Zen with the handmade Buddha Bowl. Nestled naturally in your palm, this bowl allows you to enjoy rice, soup, cereal and hot cocoa with ease. Its comforting shape washed in soothing color, this dish brings a touch of tranquility to your daily routine. Who knows-maybe you'll find enlightenment in your morning latte. Created by<span> </span>Elan McPherson. Handmade in southern California.</p>
+<span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Housewarming</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286383042602</id>
+      <title>Light Blue</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>SKU9963</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286383042602</id>
+      <title>Navy Blue</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>SKU9962</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286383042602</id>
+      <title>White</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>SKU9961</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286383042602</id>
+      <title>Brown</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>SKU9960</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286381699114</id>
+    <published>2018-02-26T17:25:46-05:00</published>
+    <updated>2018-02-26T17:25:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/classic-cheeses-of-the-world-towel"/>
+    <title>Classic Cheeses of the World Towel</title>
+    <s:type>Towel</s:type>
+    <s:vendor>Stuart Gardiner Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Classic_Cheeses_of_the_World_Towel_2.jpg?v=1519683949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stuart Gardiner Design<br>
+        <strong>Type: </strong>Towel<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>From nutty Beaufort to spicy Valdeon, savor a slice of the wonderful world of cheese with this tempting towel. Diligently researched with the help of cheese expert Juliet Harbutt, Stuart Gardiner's guide features 49 classic cheeses, showcasing their distinctive characteristics, flavors, and origins. It's a handy culinary reference for the correct way to cut cheeses, what wines and beers to pair with them, and how to create the perfect cheese board for expert entertaining. Stuart's delightful vintage-inspired graphics are printed in five colors on premium organic cotton. Made in the United Kingdom.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Housewarming</s:tag>
+    <s:tag>Interest_Cooking</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286381699114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku>SKU9942</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286381502506</id>
+    <published>2018-02-26T17:25:37-05:00</published>
+    <updated>2018-02-26T17:25:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/collapsible-bottle"/>
+    <title>Collapsible Bottle</title>
+    <s:type>Bottle</s:type>
+    <s:vendor>que</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Collapsible_Bottle_1.jpg?v=1519683940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>que<br>
+        <strong>Type: </strong>Bottle<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Jean and Kevin Wu found it unnerving that many public places accumulate so much plastic waste every day and decided to create a water bottle that's pliable, portable, and matches your personal lifestyle. For their collapsible bottle, the BPA-free, food-grade silicone is molded into a spiral design that springs into shape to hold 20 ounces of cold or hot beverages. This versatile vessel scrunches down so small it'll fit in your pocket, so you can squeeze in a drink anywhere, anytime. The wide-mouth top can easily be filled with ice cubes, and the stainless steel cap twists shut, providing a secure, leak-proof seal. Flexible, light, and shatter resistant, silicone is an FDA-approved, food-safe material that doesn't react with food or liquids, so it won't impart your drink with any unsavory flavors. Made in China.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Housewarming</s:tag>
+    <s:tag>Interest_Sports</s:tag>
+    <s:tag>Interest_Travel</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286381502506</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SKU9937</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286381371434</id>
+    <published>2018-02-26T17:25:28-05:00</published>
+    <updated>2018-02-26T17:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/custom-what-big-sister-does-best-book"/>
+    <title>Custom What Big Sister Does Best Book</title>
+    <s:type>Book</s:type>
+    <s:vendor>Laura Numeroff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Custom_What_Big_Sister_Does_Best_Book_1.jpg?v=1519683932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Laura Numeroff<br>
+        <strong>Type: </strong>Book<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Kids sometimes see the arrival of a new baby in the family as a cause for jealousy, but this charming, customized hardcover book can help those new big sisters see how they fit in the picture. Written by Laura Numeroff, author of <i>If Your Give a Mouse a Cookie</i>, the book explains all the things a big sister can do for their little siblings. Big sis will be delighted to see her name appear on the cover and throughout the story, along with a special dedication message from you on the front page. <br><br>The book is written as if regaling the new sibling with all the loving things the older child will do. This helps to model positive sibling interaction without feeling preachy, and also provides an opportunity for big sisters to share the book once the little one is old enough to enjoy story time. <br><br>The pages are warmly illustrated by Lynn Munsinger, with cute tigers, bears, pigs having adventures with their little brothers or sisters. Printed in the USA. </span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Books</s:tag>
+    <s:tag>Interest_Reading</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286381371434</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku>SKU9932</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286380552234</id>
+    <published>2018-02-26T17:25:09-05:00</published>
+    <updated>2018-02-26T17:25:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/dads-playbook"/>
+    <title>Dad&apos;s Playbook</title>
+    <s:type>Book</s:type>
+    <s:vendor>Steve Young</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Dad_s_Playbook_1.jpg?v=1519683911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Steve Young<br>
+        <strong>Type: </strong>Book<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>For new dads, having a baby is a whole new ball game, with new reasons to cheer and challenges to tackle around every corner. You can help keep his head in the game by inviting him to huddle up with this sporty playbook. The text is full of quotes and insights culled from dozens of sports' greatest coaches, with advice on being a leader, scoring under pressure, and how to encourage team spirit. Comes illustrated with inspiring photos of coaches at work. Made in China.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Books</s:tag>
+    <s:tag>Interest_Reading</s:tag>
+    <s:tag>Interest_Sports</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286380552234</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>SKU9931</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286380388394</id>
+    <published>2018-02-26T17:25:01-05:00</published>
+    <updated>2018-02-26T17:25:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/eiffel-tower-infographic-screenprint"/>
+    <title>Eiffel Tower Infographic Screenprint</title>
+    <s:type>Print</s:type>
+    <s:vendor>Taylor Doolittle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Eiffel_Tower_Infographic_Screenprint_1.jpg?v=1519683904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taylor Doolittle<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>Gustave Eiffel designed his eponymous and now iconic Parisian landmark the Eiffel Tower in 1889 Exposition Universelle. At the time of its completion, it was world's tallest structure and today it remains one of the most recognizable and romantic destinations in the City of Lights. Bound to win the hearts of architecture buffs and fervent Francophiles alike,<span> </span>Taylor Doolittle's graphic poster features a faithful depiction of the Eiffel Tower along with a slew of factoids about its history and legacy. Each print is available in your choice of three colorways and can add that certain<span> </span><i>je ne sais quoi</i><span> </span>to the well-designed room. Printed by hand in Columbus, Ohio.</p>
+<span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Housewarming</s:tag>
+    <s:tag>Interest_Art</s:tag>
+    <s:tag>Interest_Travel</s:tag>
+    <s:tag>Product Sustainability_Handmade</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:tag>Product Sustainability_Recycled</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286380388394</id>
+      <title>Laurel Green</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>SKU9921</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286380388394</id>
+      <title>White</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>SKU9920</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286380388394</id>
+      <title>Kraft</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>SKU9919</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286380126250</id>
+    <published>2018-02-26T17:24:45-05:00</published>
+    <updated>2018-02-26T17:24:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/f-for-effort"/>
+    <title>F for Effort</title>
+    <s:type>Books</s:type>
+    <s:vendor>Richard Benson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/F_for_Effort_Book_1.jpg?v=1519683890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Richard Benson<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Question: What did Paul Revere say at the end of his famous ride? If you answered "Woah!" then you're correct! At least according to this hilarious compendium of outrageous answers from the author of the national bestseller "F in Exams". Celebrating the creative side of failure—from sassy mathematical solutions to hilarious reimaginings of historical events—this unabashedly silly book celebrates the creative side of failure with 250 authentic responses to common test quandaries from K-12 jokesters. <br><br>This unbelievable assortment of audacious longshots contains questions from the sweat-inducing pop quizzes of the past, but rather than drawing a blank these students took being on the spot as an opportunity to be in the spotlight! No subject is safe from snark in this amusing book full of groan-worthy gaffes supplied by class clowns across the USA and the UK. A touching, funny, and oh-so-real look at the life of the average educator, this little pick-me-up is sure to bring smiles to any student, teacher, or professor. Printed in China.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Books</s:tag>
+    <s:tag>Interest_Funny</s:tag>
+    <s:tag>Interest_Reading</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286380126250</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>SKU9912</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286380060714</id>
+    <published>2018-02-26T17:24:40-05:00</published>
+    <updated>2018-02-26T17:24:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/f-this-test"/>
+    <title>F This Test</title>
+    <s:type>Books</s:type>
+    <s:vendor>Richard Benson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/F_This_Test_1.jpg?v=1519683885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Richard Benson<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Boost your self-esteem with this book of utter failure, strategically designed to make you feel smarter. F This Test is a cherished collection of completely terrible test answers, ranging from the clueless to the downright dumb. Topics such as literature (Q: What is the theme of Madame Bovary? A: Cows) and science (Q: What is a meteor? A: An animal that eats meat) are discussed to make you feel like the top of the class. Made in China.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Books</s:tag>
+    <s:tag>Interest_Funny</s:tag>
+    <s:tag>Interest_Reading</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286380060714</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>SKU9911</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286379536426</id>
+    <published>2018-02-26T17:24:21-05:00</published>
+    <updated>2018-02-26T17:24:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/fruit-infusing-ice-balls-set-of-4"/>
+    <title>Fruit Infusing Ice Balls (Set of 4)</title>
+    <s:type>Ice Balls</s:type>
+    <s:vendor>Prepara</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Fruit_Infusing_Ice_Balls_-_Set_of_4_1.jpg?v=1519683863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prepara<br>
+        <strong>Type: </strong>Ice Balls<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Give water a refreshing burst of berries, bourbon an unexpected splash of lemon, or ginger beer the perfect twist of lime with this happy hour essential. Simply open the ice mold sphere, add your choice of herbs or fruit, then close and fill with water through the flip top. Once frozen, the ice spheres will slowly melt to reveal the subtle scents and tastes of your drink's finishing touch. Made in China.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Housewarming</s:tag>
+    <s:tag>Interest_Cooking</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286379536426</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>SKU9905</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286379503658</id>
+    <published>2018-02-26T17:24:20-05:00</published>
+    <updated>2018-02-26T17:24:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/future-gamer-babysuit"/>
+    <title>Future Gamer Babysuit</title>
+    <s:type>Babysuit</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Future_Gamer_Babysuit.jpg?v=1519683861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Babysuit<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This high-scoring babysuit outfit is the perfect power up for the little noob in your life. The image of a vintage video game controller is screen printed by hand onto super-soft, 100% GOTS-certified organic cotton. Babysuit made in India; printed in Orlando, Florida.</span></p>
+<meta charset="utf-8">
+<p><span>This is a demo store. You can purchase products like this from <a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20</s:tag>
+    <s:tag>Interest_Funny</s:tag>
+    <s:tag>Interest_Geek</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286379503658</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.00</s:price>
+      <s:sku>SKU9903</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286378684458</id>
+    <published>2018-02-26T17:23:52-05:00</published>
+    <updated>2018-02-26T17:23:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/guitar-socks"/>
+    <title>Guitar Socks</title>
+    <s:type>Socks</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Guitar_Socks.jpg?v=1519683833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Socks<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Strike a new style chord with these fun socks featuring an acoustic guitar pattern. Made from a smooth cotton blend, they're a gift sure to resonate with any music lover. Made in South Korea.</span></p>
+<meta charset="utf-8">
+<p><span>This is a demo store. You can purchase products like this from <a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20</s:tag>
+    <s:tag>Interest_Music</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286378684458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>SKU9889</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286378618922</id>
+    <published>2018-02-26T17:23:49-05:00</published>
+    <updated>2018-02-26T17:23:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/hedgehog-coaster-caddy"/>
+    <title>Hedgehog Coaster Caddy</title>
+    <s:type>Coasters</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Hedgehog_Coaster_Caddy_1.jpg?v=1519683832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Coasters<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Part caddy, part charming woodland creature, this hedgehog might look like just a whimsical sculpture, but remove one of its spikes and you've got a convenient drink coaster. Perch the prickly pal on a kitchen or coffee table to kick off the conversation at your next dinner party or add some fun to everyday meals. Made from baltic birch in Tampa, Florida.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Housewarming</s:tag>
+    <s:tag>Interest_Art</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286378618922</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>SKU9888</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286378487850</id>
+    <published>2018-02-26T17:23:44-05:00</published>
+    <updated>2018-02-26T17:23:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/himalayan-salt-tequila-glasses-set-of-4"/>
+    <title>Himalayan Salt Tequila Glasses (Set of 4)</title>
+    <s:type>Shot Glasses</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Himalayan_Salt_Tequila_Glasses-_Set_of_4_1.jpg?v=1519683827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Shot Glasses<br>
+        <strong>Price: </strong>
+            63.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>You like your beer craft brewed, your wine perfectly aerated, why shouldn't your tequila get a bump up from the salt shaker and lime wedge standard?<br><br>Made from Himalayan sea salt, these festive glasses are highlighted by the thinly veiled, translucent appearance of rose quartz. Perfect for tequila or even mezcal, these innovative vessels offer a salty twinge to your taste buds, but with a more nuanced flavor than ordinary table salt. Salt is naturally antibacterial so you don't have to worry about cleaning mid-fiesta, and the strong salt minerals keep the shot glasses strong through many festive toasts.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Housewarming</s:tag>
+    <s:tag>Interest_Entertaining</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286378487850</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">63.00</s:price>
+      <s:sku>SKU9886</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286378192938</id>
+    <published>2018-02-26T17:23:40-05:00</published>
+    <updated>2018-02-26T17:23:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/i-still-live-with-my-parents-babysuit"/>
+    <title>I Still Live with My Parents Babysuit</title>
+    <s:type>Babysuit</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/I_Still_Live_With_My_Parents_Babysuit.jpg?v=1519683820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Babysuit<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Sponging off his or her mother and father, with a rent-free party lifestyle... what's in this baby's future? That's easy: he or she will be photographed and shared on social media like a star. An itty, bitty, mini star with a mega credit line at the Bank of Mom and Dad. Made in China.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20</s:tag>
+    <s:tag>Interest_Funny</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286378192938</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SKU9883</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286377766954</id>
+    <published>2018-02-26T17:23:31-05:00</published>
+    <updated>2018-02-26T17:23:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/library-card-mug"/>
+    <title>Library Card Mug</title>
+    <s:type>Mug</s:type>
+    <s:vendor>Out of Print</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Library_Card_Mug.jpg?v=1519683812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Out of Print<br>
+        <strong>Type: </strong>Mug<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Calling all book lovers! Made to look like an empty library card waiting for new readers, this ceramic mug makes a charming addition to a teacher's desk or your favorite cozy reading nook. Made in China.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Housewarming</s:tag>
+    <s:tag>Interest_Reading</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286377766954</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>SKU9879</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

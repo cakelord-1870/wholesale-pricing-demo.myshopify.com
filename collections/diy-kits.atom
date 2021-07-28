@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesale-pricing-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesale-pricing-demo.myshopify.com/collections/diy-kits.atom"/>
+  <title>Wholesale Club by Pixel Union</title>
+  <updated>2018-02-26T17:27:18-05:00</updated>
+  <author>
+    <name>Wholesale Club by Pixel Union</name>
+  </author>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286385041450</id>
+    <published>2018-02-26T17:27:18-05:00</published>
+    <updated>2018-02-26T17:27:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/absinthe-making-kit"/>
+    <title>Absinthe Making Kit</title>
+    <s:type>Kit</s:type>
+    <s:vendor>Bootleg Botanicals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Absinthe_Making_Kit_1.jpg?v=1519684042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bootleg Botanicals<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            63.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>You don't need a still or a garden of obscure botanicals to make your own fragrant absinthe with this DIY kit. Just add your favorite high proof neutral<em>—</em>the kit has everything else to transform the liquor into the storied "Green Fairy" beloved of 19th century artists and writers (without the notorious neurotoxins of Bohemian legend). The key to the kit is a blend of eleven certified organic botanicals from around the world<em>—</em>including Fennel, Anise, Licorice, Hyssop, Angelica, and Artemisia<em>—</em>which add heady complexity to the brew. The kit also includes a 500 ml Tortuga antique green bottle with custom-designed label, a 4 inch funnel, a natural coffee filter, and easy instructions for brewing your absinthe. The label invites customization to record your cocktail creation. Assembled in Nevada by cocktail-loving couple Ryan and Melanie Belshee. Refill kits also available to keep the Green Fairy flowing.</p>
+<meta charset="utf-8">
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_DIY</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286385041450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">63.00</s:price>
+      <s:sku>SKU9989</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286384255018</id>
+    <published>2018-02-26T17:26:54-05:00</published>
+    <updated>2018-02-26T17:26:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/bagel-cream-cheese-making-kit"/>
+    <title>Bagel &amp; Cream Cheese Making Kit</title>
+    <s:type>Kit</s:type>
+    <s:vendor>Farm Steady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Bagel_Cream_Cheese_Making_Kit_1.jpg?v=1519684017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Farm Steady<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Nosh like a New Yorker with this DIY kit that includes the basics to make classic everything or cinnamon raisin bagels and schmear. Rope, loop, and boil a dozen doughy bagels from scratch and follow up with a healthy helping of tangy cultured cream cheese. Keep yours plain, add swirls of the included cinnamon and raisins, or spice things up with the everything bagel seasoning blend (minced onions and garlic, sesame and poppy seeds, and flaky salt) for a homestyle breakfast treat that tastes as if it's straight from an old-fashioned delicatessen. Assembled in Brooklyn.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_Cooking</s:tag>
+    <s:tag>Interest_DIY</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286384255018</id>
+      <title>Everything</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SKU9979</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286384255018</id>
+      <title>Cinnamon Raisin</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SKU9978</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286382714922</id>
+    <published>2018-02-26T17:26:12-05:00</published>
+    <updated>2018-02-26T17:26:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/cabernet-sauvignon-wine-making-kit"/>
+    <title>Cabernet Sauvignon Wine Making Kit</title>
+    <s:type>Kit</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Cabernet_Sauvignon_Wine_Making_Kit_1.jpg?v=1519683975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            84.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Wine making is a simple, natural process. Add yeast to grape juice, let it ferment in a controlled environment, and boom. Yet wine's mystique can make the vintner's art seem out of reach. Consider this kit a pool floaty for the beginner winemaker: It helps you jump in without fear.<br><br>The kit contains all the equipment and ingredients you need to make one gallon (approx. five 750ml bottles) of robust Cabernet Sauvignon. Representing the true terroir of Napa Valley and the deep, full-bodied character of this noble California red grape, this wine has the typically intense Cab flavor and aroma.<br><br>The only challenge will be learning your winespeak, so repeat after us: "My 2017 Chateau Moi Cabernet is flamboyant yet austere, with a laser-like insouciance, a bouquet as muscular as a Malibu surfer, and a finish as long as the San Mateo-Hayward Bridge." Assembled in Orlando, Florida. Cabernet Sauvignon juice made in Napa Valley, California. 14% ABV.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_DIY</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286382714922</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">84.00</s:price>
+      <s:sku>SKU9957</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286380879914</id>
+    <published>2018-02-26T17:25:20-05:00</published>
+    <updated>2018-02-26T17:25:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/diy-wildflower-seed-ball-kit"/>
+    <title>DIY Wildflower Seed Ball Kit</title>
+    <s:type>Kit</s:type>
+    <s:vendor>Seedles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/DIY_Wildflower_Seed_Ball_Kit.jpg?v=1519683922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seedles<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>This DIY kit lets you make your own little botanical bombs that explode into rainbows of color when deployed in your garden. It includes organic homemade compost, native non-GMO wildflower seeds for your growing region of choice, red clay, and step-by-step instructions to form your own seed balls. A great gift for curious kids or adult guerilla gardeners, it's a smile-sprouting, interactive way to make money-saving seed starters. Handmade by Christopher Burley in California.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_DIY</s:tag>
+    <s:tag>Interest_Gardening</s:tag>
+    <s:tag>Product Sustainability_Fair Trade Certified</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286380879914</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>SKU9924</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286380781610</id>
+    <published>2018-02-26T17:25:18-05:00</published>
+    <updated>2018-02-26T17:25:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/diy-fermentation-kit"/>
+    <title>DIY Fermentation Kit</title>
+    <s:type>Kit</s:type>
+    <s:vendor>Kraut Source</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/DIY_Fermentation_Kit_1.jpg?v=1519683920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kraut Source<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>From kimchi in Korea to sauerkraut in Eastern Europe, every culture has cultivated its own tangy traditions, transforming surplus produce into simple superfoods. Master one of the oldest forms of food preservation with this DIY kit that lets you make probiotic-rich condiments by the quart. To get started, grab a bunch of your favorite fruits or vegetables and consult the side of the compostable box for delicious spice suggestions. The paper insert is embedded with dill seeds that can be planted and harvested to flavor your future ferments. Designed by Karen Diggs in San Francisco. Assembled in California. Made in China.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_Cooking</s:tag>
+    <s:tag>Interest_DIY</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286380781610</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku>SKU9927</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286380748842</id>
+    <published>2018-02-26T17:25:15-05:00</published>
+    <updated>2018-02-26T17:25:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/diy-terrarium-kit"/>
+    <title>DIY Terrarium Kit</title>
+    <s:type>Kit</s:type>
+    <s:vendor>The Lucky Gardener</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/The_Lucky_Gardener_DIY_Terrarium_Kit_1.jpg?v=1519683918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lucky Gardener<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Designed by terrarium artists Michelle Inciarrano and Katy Maslow, this kit includes everything you'll need to create your own thriving, self-contained world from the ground up. From the hardy terrarium plant seeds to the proprietary soil mix, each aspect of this DIY conservatory was coordinated through the conjunction of art, science and design to help the timid terrarium-maker or bad news botanist. The handsome glass and wood vessel includes detailed instructions, packets of all the necessary terrarium layers, and embellishments such as black lichen, reindeer moss, lichen branch, and a couple of cute bunnies for extra luck. You'll be the architect of your own verdant tabletop realm in no time! Handmade in Brooklyn.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_DIY</s:tag>
+    <s:tag>Interest_Gardening</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286380748842</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">120.00</s:price>
+      <s:sku>SKU9925</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286380617770</id>
+    <published>2018-02-26T17:25:11-05:00</published>
+    <updated>2018-02-26T17:25:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/diy-tamale-kit"/>
+    <title>DIY Tamale Kit</title>
+    <s:type>Kit</s:type>
+    <s:vendor>Global Grub</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/DIY_Tamale_Kit_1.jpg?v=1519683914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Grub<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Upon listening to her college roommate recount her family's process of tamale-making that has been passed down through the generations, foodie designer Carley Sheehy created a DIY recipe kit that allows even the novice to roll up their sleeves and throw their own <i>tamalada</i>. In Mexico and many South American countries, tamales represent a holiday tradition that combines family and food into an all-day cooking marathon that ends in unwrapping some delicious "presents." Master the time-honored techniques with Carley's step-by-step instructions: make the masa, add your favorite fillings, wrap in corn husks, and steam. Once cooked, open and drape them in a piquant, three-pepper sauce of ancho, pasilla, and New Mexico chilies, and savor a taste of a rich culinary tradition. Starter kit makes about 16 tamales. Assembled in Livermore, California.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_Cooking</s:tag>
+    <s:tag>Interest_DIY</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286380617770</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.00</s:price>
+      <s:sku>SKU9926</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286378422314</id>
+    <published>2018-02-26T17:23:41-05:00</published>
+    <updated>2018-02-26T17:23:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/homemade-gin-kit"/>
+    <title>Homemade Gin Kit</title>
+    <s:type>Kit</s:type>
+    <s:vendor>The Homemade Gin Kit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Homemade_Gin_Kit.jpg?v=1519683824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Homemade Gin Kit<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><span>Relive Prohibition without all the pesky illegalities, bathtub hooch, and glamorous parties hidden behind secret speakeasy doors</span></span></p>
+<meta charset="utf-8">
+<p><span><em>—</em>okay, that last one sounds pretty great. Filled with hand-selected and aromatic juniper berries, mixed spices, and more, this DIY gin kit lets you brew your own batch without a flurry of distilling equipment.<br><br>Simply start with a bottle of your favorite vodka, which acts as a blank canvas, then add the included spices and botanicals. Let your ingredients steep for 36 hours before enjoying your very own happy hour-ready mix, touched with hints of lavender, sandalwood, and green cardamom. Two included bottles display your tipples with pride, while the small batch mix tastes great on the rocks, with a splash of tonic, or an aromatic addition to a Negroni. Made in USA.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_DIY</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286378422314</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku>SKU9885</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286378258474</id>
+    <published>2018-02-26T17:23:40-05:00</published>
+    <updated>2018-02-26T17:23:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/hot-toddy-carry-on-cocktail-kit"/>
+    <title>Hot Toddy Carry On Cocktail Kit</title>
+    <s:type>Kit</s:type>
+    <s:vendor>W&amp;P Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Hot_Toddy_Carry-On_Cocktail_Kit.jpg?v=1519683821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>W&amp;P Design<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Make it a smooth flight with Hot Toddies for two. This personal cocktail kit will sail through security and supply you with everything necessary to practice your mixology at 30,000 feet: spicy small-batch ginger syrup, crystallized lemon, and aromatic cinnamon sticks for garnish, all packaged in a flight-themed tin that adds a dash of first-class flair to the affair. Just ask your friendly flight attendant for a mini bottle of whiskey and cup of hot water. Consumables sourced and kit developed and assembled in the USA.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food &amp; Drink</s:tag>
+    <s:tag>Interest_Travel</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286378258474</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>SKU9884</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286378160170</id>
+    <published>2018-02-26T17:23:38-05:00</published>
+    <updated>2018-02-26T17:23:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/kale-in-a-bag-grow-kit"/>
+    <title>Kale in a Bag Grow Kit</title>
+    <s:type>Kit</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Kale_in_a_Bag_Grow_Kit.jpg?v=1519683819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>In the land of leafy greens, kale reigns supreme (we hear its marketing team is top notch). Enjoy it in your own farm-to-table salads with this easy DIY kit. Get the seeds started right in the natural jute bag, and once they're ready to grow on their own, transfer the whole biodegradable bag out to the garden. The seeds are "dinosaur kale," a cold, hardy variety that thrives when planted in cool weather and will continue producing all the way up until the ground freezes. Its vitamin-rich leaves are great in salads, stir-fries, and casseroles. Jute bag from India; kit assembled in New Jersey.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_Cooking</s:tag>
+    <s:tag>Interest_DIY</s:tag>
+    <s:tag>Interest_Gardening</s:tag>
+    <s:tag>Product Sustainability_Fair Trade Certified</s:tag>
+    <s:tag>Product Sustainability_Organically Grown</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286378160170</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>SKU9882</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286376489002</id>
+    <published>2018-02-26T17:23:11-05:00</published>
+    <updated>2018-02-26T17:23:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/margarita-carry-on-cocktail-kit"/>
+    <title>Margarita Carry-On Kit</title>
+    <s:type>Kit</s:type>
+    <s:vendor>W&amp;P Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Margarita_Carry-On_Cocktail_Kit.jpg?v=1519683793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>W&amp;P Design<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Make it a smooth flight with margaritas for two when you carry on this cocktail kit. The tin will sail through security and supply you with everything you need to practice your mixology at 30,000 feet including mix and rimming salt. Just order a mini bottle of tequila, and stir up an island favorite at your personal, one seat bar. The flight-themed package and linen coaster add a dash of first-class flair to the affair. Consumables sourced in the USA; kit developed and assembled in the USA.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food &amp; Drink</s:tag>
+    <s:tag>Interest_Travel</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286376489002</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>SKU9868</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286376259626</id>
+    <published>2018-02-26T17:23:05-05:00</published>
+    <updated>2018-02-26T17:23:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/mead-making-kit"/>
+    <title>Mead Making Kit</title>
+    <s:type>Kit</s:type>
+    <s:vendor>Norse Hutchens</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Mead_Making_Kit_1.jpg?v=1519683787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norse Hutchens<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            77.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Ask for mead at your local liquor store and you may be met with a puzzled look, but you can start your own honey wine revival with this comprehensive mead making kit. A golden, honey-based liquor, mead is the ancestor of all fermented beverages, originating in Asia over 9,000 years ago. It also flows through the history of the ancient world and medieval Europe, and inspires the familiar term "honeymoon" (the first month of marriage, when couples would toast with mead). This kit makes you part of this rich and exclusive history with everything you'll need to make a half gallon of your own mead to celebrate your honeymoon or share with friends and family.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_DIY</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286376259626</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">77.00</s:price>
+      <s:sku>SKU9866</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286375866410</id>
+    <published>2018-02-26T17:22:59-05:00</published>
+    <updated>2018-02-26T17:22:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/moscow-mule-carry-on-cocktail-kit"/>
+    <title>Moscow Mule Carry-On Kit</title>
+    <s:type>Kit</s:type>
+    <s:vendor>W&amp;P Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Moscow_Mule_Carry-On_Cocktail_Kit_1.jpg?v=1519683780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>W&amp;P Design<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Pilot your own takeoff with this personal cocktail kit made for a couple of jet-setters. The kit will sail through security and supply you with all you need to make two craft cocktails during your flight: small-batch ginger syrup, a stainless steel jigger, linen cocktail napkin, mini bar spoon, and recipe card. Just order a mini bottle of vodka and your mules will be kicking in a jiffy. The flight-themed tin adds a dash of first-class flair to the affair. Consumables sourced in the USA; kit developed and assembled in the USA.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food &amp; Drink</s:tag>
+    <s:tag>Interest_Travel</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286375866410</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>SKU9862</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286374817834</id>
+    <published>2018-02-26T17:22:37-05:00</published>
+    <updated>2018-02-26T17:22:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/old-fashioned-carry-on-cocktail-kit"/>
+    <title>Old Fashioned Carry-On Kit</title>
+    <s:type>Kit</s:type>
+    <s:vendor>W&amp;P Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Old_Fashioned_Carry-On_Cocktail_Kit.jpg?v=1519683758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>W&amp;P Design<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Make it a smooth flight with Old Fashioneds for two when you carry on this personal cocktail kit. The kit will sail through security and supply you with everything you need to practice your mixology at 30,000 feet: pure cane sugar, small batch bitters, and a mini bar spoon/muddler. Just order a mini bottle of rye, and mix up a classic, jet set cocktail at your personal, one-seat bar. The flight-themed tin and linen coaster add a dash of first-class flair to the affair. Consumables sourced in the USA; kit developed and assembled in the USA.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Food &amp; Drink</s:tag>
+    <s:tag>Interest_Travel</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286374817834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>SKU9853</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286373933098</id>
+    <published>2018-02-26T17:22:17-05:00</published>
+    <updated>2018-02-26T17:22:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/pinot-grigio-wine-making-kit"/>
+    <title>Pinot Grigio Wine Making Kit</title>
+    <s:type>Kit</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Pinot_Grigio_Wine_Making_Kit_1.jpg?v=1519683739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            84.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Wine making is a simple, natural process. Add yeast to grape juice, let it ferment in a controlled environment, and boom. Yet wine's mystique can make the vintner's art seem out of reach. Consider this kit a pool floaty for the beginner winemaker: It helps you jump in without fear.<br><br>The kit includes all the equipment and ingredients you need to make one gallon (approx. five 750ml bottles) of crisp, dry Italian Pinot Grigio with delicious fruit flavors and a delicate floral fragrance.<br><br>The only challenge will be learning your winespeak, so repeat after us: "My 2017 Castello di Mio Pinot Grigio is linear yet round, with more <i>vivace</i> than Vivaldi, and an ample <i>soupçon</i> of Alpen spring breeze on the finish." Assembled in Orlando, Florida. Pinot Grigio juice from Italy. 14% ABV. </span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food &amp; Drink</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286373933098</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">84.00</s:price>
+      <s:sku>SKU9839</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286372753450</id>
+    <published>2018-02-26T17:21:53-05:00</published>
+    <updated>2018-02-26T17:21:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/sake-making-kit"/>
+    <title>Sake Making Kit</title>
+    <s:type>Kit</s:type>
+    <s:vendor>Norse Hutchens</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Sake_Making_Kit_1.jpg?v=1519683715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norse Hutchens<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Traditional Japanese sake production can be complicated and exacting, but this kit makes it easy with everything you'll need (except 1lb of white raisins and 2.5lbs of sugar) to brew a gallon of your own sake in a hands-on exploration of ancient art and science. Hailing from Nara period Japan (8th century CE), sake is a time-honored rice "wine" steeped in Japanese culture, but you can bring a bit of this rich tradition to your kitchen without a trip to Kobe's legendary breweries.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_DIY</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286372753450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>SKU9820</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286371049514</id>
+    <published>2018-02-26T17:21:39-05:00</published>
+    <updated>2018-02-26T17:21:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/self-watering-herbal-tea-kit"/>
+    <title>Self-Watering Herbal Tea Kit</title>
+    <s:type>Kit</s:type>
+    <s:vendor>Biodegradable Pot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Self-Watering_Herbal_Tea_Kit_1.jpg?v=1519683701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Biodegradable Pot<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Just as it takes hot water to bring tea leaves to life, this self-hydrating system by Sarah Burrows and Nick Behr starts the process from the ground up. The idea for this system grew from the makers' struggle to sustain a kitchen garden in their fourth-floor Chicago apartment. The busy professionals turned to hydroponics for help and were astounded by the results. Designed for space-conscious urbanites, home cooks, and aspiring indoor farmers, each of their kits is outfitted with reusable glass canning jars. The jars are threaded with wicks that pull water into the transplantable coco husk pots, keeping your teas-to-be hydrated. Once your organic mint, bee balm, and lemon basil seeds have sprouted, transfer the seedlings along with their biodegradable pots outside to thrive in your garden. Snip the herbs and mix with your favorite teas for a delightful boost of fresh flavor. Assembled in Illinois.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_Cooking</s:tag>
+    <s:tag>Interest_DIY</s:tag>
+    <s:tag>Interest_Gardening</s:tag>
+    <s:tag>Product Sustainability_Organically Grown</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286371049514</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>SKU9817</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286370885674</id>
+    <published>2018-02-26T17:21:37-05:00</published>
+    <updated>2018-02-26T17:21:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/self-watering-veggie-kit"/>
+    <title>Self-Watering Veggie Kit</title>
+    <s:type>Kit</s:type>
+    <s:vendor>Biodegradable Pot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Self-Watering_Veggie_Kit_1.jpg?v=1519683699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Biodegradable Pot<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Just as it takes hot water to bring tea leaves to life, this self-hydrating system by Sarah Burrows and Nick Behr starts the process from the ground up. The idea for this system grew from the makers' struggle to sustain a kitchen garden in their fourth-floor Chicago apartment. The busy professionals turned to hydroponics for help and were astounded by the results. Designed for space-conscious urbanites, home cooks, and aspiring indoor farmers, each of their kits is outfitted with reusable glass canning jars. The jars are threaded with wicks that pull water into the transplantable coco husk pots, keeping your teas-to-be hydrated. Once your organic mint, bee balm, and lemon basil seeds have sprouted, transfer the seedlings along with their biodegradable pots outside to thrive in your garden. Snip the herbs and mix with your favorite teas for a delightful boost of fresh flavor. Assembled in Illinois.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_Cooking</s:tag>
+    <s:tag>Interest_DIY</s:tag>
+    <s:tag>Interest_Gardening</s:tag>
+    <s:tag>Product Sustainability_Organically Grown</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286370885674</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>SKU9816</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286368952362</id>
+    <published>2018-02-26T17:20:55-05:00</published>
+    <updated>2018-02-26T17:20:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/sunflower-in-a-bag-grow-kit"/>
+    <title>Sunflower in a Bag Grow Kit</title>
+    <s:type>Kit</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Sunflower_in_a_Bag_Grow_Kit.jpg?v=1519683655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Grow your own soaring sunflowers with this easy DIY kit. Start the included seeds in the natural jute bag, and then transfer the seeding—biodegradable bag and all—to the garden. No uprooting baby sunflowers required, as the plant-based jute will disintegrate in the soil, giving the roots room to grow and allowing the plants to fully mature into sunny, happiness-inspiring blooms. Instructions included. Jute bag from India; kit assembled in the New Jersey.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_DIY</s:tag>
+    <s:tag>Interest_Gardening</s:tag>
+    <s:tag>Product Sustainability_Organically Grown</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286368952362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>SKU9797</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286368919594</id>
+    <published>2018-02-26T17:20:53-05:00</published>
+    <updated>2018-02-26T17:20:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/sushi-making-kit"/>
+    <title>Sushi Making Kit</title>
+    <s:type>Kit</s:type>
+    <s:vendor>Global Grub</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Sushi_Making_Kit_1.jpg?v=1519683654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Grub<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Why go out for sushi when you can serve your own, handcrafted sushi rolls right in the comfort of your own kitchen? Carley Sheehy wondered the same thing, and created this DIY kit which includes everything you'll need to create these Japanese delights that are as fun to make as they are to eat. Get started with the popular sushi roll recipes included, or add a medley of your own ingredients to construct a custom-made roll that's jam-packed with your favorite flavors. In addition to a rolling mat, easy-to-follow instructions, and helpful drink pairings, the kit also comes with the base ingredients for four servings of sushi, including sushi rice, rice vinegar, nori—the special seaweed used to bind rolls—sesame seeds, spicy wasabi powder, gluten-free soy sauce—just add your favorite fillings! Made in Livermore, California.</span></p>
+<p><span>This is a demo store. </span><span>You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_Cooking</s:tag>
+    <s:tag>Interest_DIY</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286368919594</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.00</s:price>
+      <s:sku>SKU9795</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

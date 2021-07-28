@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesale-pricing-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesale-pricing-demo.myshopify.com/collections/tech.atom"/>
+  <title>Wholesale Club by Pixel Union</title>
+  <updated>2018-02-26T17:26:45-05:00</updated>
+  <author>
+    <name>Wholesale Club by Pixel Union</name>
+  </author>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286383861802</id>
+    <published>2018-02-26T17:26:45-05:00</published>
+    <updated>2018-02-26T17:26:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/bluetooth-droplet-speaker"/>
+    <title>Bluetooth Droplet Speaker</title>
+    <s:type>Bluetooth Speaker</s:type>
+    <s:vendor>Zumreed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Bluetooth_Droplet_Speaker.jpg?v=1519684005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zumreed<br>
+        <strong>Type: </strong>Bluetooth Speaker<br>
+        <strong>Price: </strong>
+            106.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Turn up your favorite jams in the shower or at the pool without fear of splashing your phone with this cool blue droplet-shaped speaker. Water and sand-resistant, this clever device connects to your phone or mp3 player via wireless bluetooth. Easily adjust volume or tracks from the outer buttons. Made in China.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_Music</s:tag>
+    <s:tag>Interest_Tech</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286383861802</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">106.00</s:price>
+      <s:sku>SKU9965</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286378061866</id>
+    <published>2018-02-26T17:23:34-05:00</published>
+    <updated>2018-02-26T17:23:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/kitchen-utensil-and-tablet-holder"/>
+    <title>Kitchen Utensil &amp; Tablet Holder</title>
+    <s:type>Tablet Holder</s:type>
+    <s:vendor>STAK Ceramics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Kitchen_Utensil_and_Tablet_Holder_1.jpg?v=1519683818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STAK Ceramics<br>
+        <strong>Type: </strong>Tablet Holder<br>
+        <strong>Price: </strong>
+            84.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Heather and Myles Geyman's modern cookbook stand puts your go-to gastronomical guide out of harm's way while keeping your low-fi kitchen tools at an arm's reach. With a convenient notch specially designed to fit your tablet, the holder keeps the screen in view and your counter clutter-free. The artist slip cast the dock/holder from white stoneware that is finished with a subtle speckled glaze. Handmade in Pittsburgh, Pennsylvania.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_Cooking</s:tag>
+    <s:tag>Interest_Tech</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286378061866</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">84.00</s:price>
+      <s:sku>SKU9881</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286377373738</id>
+    <published>2018-02-26T17:23:23-05:00</published>
+    <updated>2018-02-26T17:23:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/loopy-lou-the-dj-in-a-box"/>
+    <title>Loopy Lou the DJ in a Box</title>
+    <s:type>Digital Recorder</s:type>
+    <s:vendor>BrandNewNoise</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Loopy_Lou_the_DJ_in_a_Box.jpg?v=1519683804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BrandNewNoise<br>
+        <strong>Type: </strong>Digital Recorder<br>
+        <strong>Price: </strong>
+            107.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>This playful gadget puts a digital recording tool in the palm of your hand. Hit the red record button to capture vocals or other sounds, and then manipulate them with loops and pitch-bending playback for beatboxing and all-around audio fun. The handmade wood housing with DJ turntable-inspired graphics makes this a user-friendly package that will invite endless sonic experimentation for teens and adults alike. Handmade by Richard Upchurch in Brooklyn, New York.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_Music</s:tag>
+    <s:tag>Interest_Tech</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286377373738</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">107.00</s:price>
+      <s:sku>SKU9873</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286370230314</id>
+    <published>2018-02-26T17:21:23-05:00</published>
+    <updated>2018-02-26T17:21:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/smartphone-magnifier"/>
+    <title>Smartphone Magnifier</title>
+    <s:type>Magnifier</s:type>
+    <s:vendor>Luckies Vision</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Smartphone_Magnifier_1.jpg?v=1519683686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Luckies Vision<br>
+        <strong>Type: </strong>Magnifier<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Coming to a theater near you: viral YouTube videos, your Instagram feed, and cat gifs galore. This portable magnifier is about to blow up your phone—or at least what you see on the screen. Just slip your device into the fully assembled, retro-styled cardboard TV and enjoy your mobile movies double the size of your display. Keep it in your bag for impromptu screenings during your next camping trip, sleepover, or long car ride. Designed in London. Made in China.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_Entertaining</s:tag>
+    <s:tag>Interest_Geek</s:tag>
+    <s:tag>Interest_Tech</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286370230314</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>SKU9809</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

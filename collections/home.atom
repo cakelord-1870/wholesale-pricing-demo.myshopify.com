@@ -1,0 +1,1268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesale-pricing-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesale-pricing-demo.myshopify.com/collections/home.atom"/>
+  <title>Wholesale Club by Pixel Union</title>
+  <updated>2018-02-26T17:27:08-05:00</updated>
+  <author>
+    <name>Wholesale Club by Pixel Union</name>
+  </author>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286384746538</id>
+    <published>2018-02-26T17:27:08-05:00</published>
+    <updated>2018-02-26T17:27:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/animal-tracks-chart"/>
+    <title>Animal Tracks Chart</title>
+    <s:type>Chart</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Animal_Tracks_Chart_1.jpg?v=1519684030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Chart<br>
+        <strong>Price: </strong>
+            49.00 - 84.00
+            <a href="https://wholesale-pricing-demo.myshopify.com/products/animal-tracks-chart">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>All sorts of beasts and birds are afoot in this playful print featuring an assortment of animal tracks from elephant to mouse. Even better, each foot, hoof, paw, or claw-print is rendered at life size, so you can see how your own hand measures up. More than just colorful decor, it's an educational illustration of the amazing diversity of life and the many creatures that share the earth with us. Designed by Ben Gibson and Patrick Mulligan in Brooklyn, this offset lithograph is printed in Long Island City, New York using 100 lb. archival stock certified by The Forest Stewardship Council.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Interest_Animals</s:tag>
+    <s:tag>Interest_Art</s:tag>
+    <s:tag>Product Sustainability_Handmade</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286384746538</id>
+      <title>Print + Hanging Rails</title>
+      <s:price currency="CAD">84.00</s:price>
+      <s:sku>SKU9986</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286384746538</id>
+      <title>Print Only</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku>SKU9985</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286384353322</id>
+    <published>2018-02-26T17:26:58-05:00</published>
+    <updated>2018-02-26T17:26:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/aromatherapy-deluxe-gift-set"/>
+    <title>Aromatheraphy Deluxe Gift Set</title>
+    <s:type>Kit</s:type>
+    <s:vendor>The Holistic Home Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Aromatherapy_Deluxe_Gift_Set_2.jpg?v=1519684020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Holistic Home Co.<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            77.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Lift your spirits and step into a more centered space with the ancient transporting powers of aromatherapy. Laura Benko blends the highest quality, therapeutic-grade essential oils into meditative medleys that each sets a specific tone or mood. Mist your bedding to promote sound sleep, focus and find more creative solutions in the office, add a romantic touch to your closets or powder room, or mist a bit on your pulse points to carry an air of positivity with you as you face the day. Handmade in Brooklyn, New York.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bed &amp; Bath</s:tag>
+    <s:tag>Interest_Self Care</s:tag>
+    <s:tag>Product Sustainability_Handmade</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286384353322</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">77.00</s:price>
+      <s:sku>SKU9982</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286383861802</id>
+    <published>2018-02-26T17:26:45-05:00</published>
+    <updated>2018-02-26T17:26:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/bluetooth-droplet-speaker"/>
+    <title>Bluetooth Droplet Speaker</title>
+    <s:type>Bluetooth Speaker</s:type>
+    <s:vendor>Zumreed</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Bluetooth_Droplet_Speaker.jpg?v=1519684005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zumreed<br>
+        <strong>Type: </strong>Bluetooth Speaker<br>
+        <strong>Price: </strong>
+            106.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Turn up your favorite jams in the shower or at the pool without fear of splashing your phone with this cool blue droplet-shaped speaker. Water and sand-resistant, this clever device connects to your phone or mp3 player via wireless bluetooth. Easily adjust volume or tracks from the outer buttons. Made in China.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_Music</s:tag>
+    <s:tag>Interest_Tech</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286383861802</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">106.00</s:price>
+      <s:sku>SKU9965</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286383730730</id>
+    <published>2018-02-26T17:26:37-05:00</published>
+    <updated>2018-02-26T17:26:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/beard-pack"/>
+    <title>Beard Pack</title>
+    <s:type>Personal Care</s:type>
+    <s:vendor>Sam&apos;s Natural</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Beard_Pack.jpg?v=1519684002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sam&#39;s Natural<br>
+        <strong>Type: </strong>Personal Care<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Just because you sport facial hair doesn't mean you have to look like a grizzly man. Keep your 'stache and beard in top-notch form with this all-natural facial hair care set. This line of products, created by a mechanic, is gentle enough for daily use, but don't worry</span><em>—</em>we won't tell anyone. Handmade in the USA.</p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bed &amp; Bath</s:tag>
+    <s:tag>Interest_Self Care</s:tag>
+    <s:tag>Product Sustainability_Fair Trade Certified</s:tag>
+    <s:tag>Product Sustainability_Handmade</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286383730730</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>SKU9973</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286383206442</id>
+    <published>2018-02-26T17:26:27-05:00</published>
+    <updated>2018-02-26T17:26:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/better-stuff-doormat"/>
+    <title>Better Stuff Doormat</title>
+    <s:type>Doormat</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Better_Stuff_Doormat.jpg?v=1519683988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Doormat<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Redirect robbers with Reed Wilson's cheeky deterrent that gives burglars</span><em>—</em>and dirty shoes<em>—</em>the brush off. Since coir is a natural, durable and renewable fiber, these quirky mats are excellent at trapping dirt and easily shake clean. Welcomed visitors will no longer have to slop soggy shoes through the house when they can wipe their dirty soles on this super absorbent mat and keep the mess outside. Made in USA.</p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Interest_Funny</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286383206442</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku>SKU9969</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286382551082</id>
+    <published>2018-02-26T17:26:09-05:00</published>
+    <updated>2018-02-26T17:26:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/chakra-bath-salts-set"/>
+    <title>Chakra Bath Salts Set</title>
+    <s:type>Bath Salts</s:type>
+    <s:vendor>Indigo Wild</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Chakra_Bath_Salts_Set_1.jpg?v=1519683970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Indigo Wild<br>
+        <strong>Type: </strong>Bath Salts<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>A Sanskrit term meaning "wheel" or "circle," chakras represent the seven specific energy centers found in the body. From the crown chakra that assures a calm piece of mind to the root, offering a grounding in positive energy, addressing each point is thought to provide balance and inner peace.<br><br>Indulge your own chakras with this shea butter bath salt set, featuring seven aromatic varieties blended with essential oils and tinted with all-natural micas for a beautiful glow. Featuring refreshing scents like eucalyptus, rosemary, peppermint, and more, these meditative salts bring a balanced sense of calm to a post-work bath. Made in the USA.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bed &amp; Bath</s:tag>
+    <s:tag>Interest_Self Care</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286382551082</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.00</s:price>
+      <s:sku>SKU9956</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286381895722</id>
+    <published>2018-02-26T17:25:49-05:00</published>
+    <updated>2018-02-26T17:25:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/city-prints"/>
+    <title>City Prints</title>
+    <s:type>Print</s:type>
+    <s:vendor>Carolyn Gavin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/City_Prints_by_Carolyn_Gavin_1.jpg?v=1519683957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolyn Gavin<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Carolyn Gavin brings the landmarks of cities scattered across the globe to life in her eye-catching prints that are chock-full of local color. Inspired by her world travels, the South African-born artist captures the buzz of each city and represents its most-visited sights, monuments, and more as charming abstractions. She works in dense layers of gouache and watercolor to create her inspired homages to some of the planet's most vibrant urban areas. Follow the winding curves of Lombard Street in San Francisco, take in the impressive view along La Seine in gay Paris, or get lost in the hubbub of the Big Apple. Conjure memories of your own travels, or display your old stomping grounds in a place of honor in your new home. Designed in Toronto, Canada. Printed in Portland, Oregon.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Interest_Art</s:tag>
+    <s:tag>Interest_Travel</s:tag>
+    <s:tag>Product Sustainability_Handmade</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286381895722</id>
+      <title>San Francisco</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>SKU9952</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286381895722</id>
+      <title>New York</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>SKU9951</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286381895722</id>
+      <title>Chicago</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>SKU9950</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286381895722</id>
+      <title>Washington, D.C.</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>SKU9949</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286381895722</id>
+      <title>Boston</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>SKU9948</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286381895722</id>
+      <title>Los Angeles</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>SKU9947</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286381895722</id>
+      <title>London</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>SKU9946</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286381895722</id>
+      <title>Paris</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>SKU9945</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286381895722</id>
+      <title>Miami</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>SKU9944</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286381895722</id>
+      <title>Texas</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>SKU9943</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286381469738</id>
+    <published>2018-02-26T17:25:32-05:00</published>
+    <updated>2018-02-26T17:25:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/colosseum-infographic-screenprint"/>
+    <title>Colosseum Infographic Screenprint</title>
+    <s:type>Print</s:type>
+    <s:vendor>Taylor Doolittle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Colosseum_Infographic_Screenprint_1.jpg?v=1519683936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taylor Doolittle<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>An impressive design built of concrete and stone, the Colosseum in Rome is the largest amphitheater ever built and is considered one of the greatest works of architecture and engineering. The pride of the Flavian dynasty, the public area could host more than 65,000 spectators and was used for many public events from dramas based on classical mythology and re-enactments of famous battles to gladiatorial contests, for which the Colosseum is best known today. Sure to win the hearts of history buffs and Ancient scholars alike, Taylor Doolittle's graphic poster features a faithful depiction of the Colosseum along with a slew of factoids about its history and legacy. Each print is available in your choice of three colorways and makes a powerful statement in the well-designed room. Printed by hand in Columbus, Ohio.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Interest_Art</s:tag>
+    <s:tag>Interest_Travel</s:tag>
+    <s:tag>Product Sustainability_Handmade</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286381469738</id>
+      <title>Laurel Green</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>SKU9936</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286381469738</id>
+      <title>White</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>SKU9935</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286381469738</id>
+      <title>Kraft</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>SKU9934</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286380421162</id>
+    <published>2018-02-26T17:25:05-05:00</published>
+    <updated>2018-02-26T17:25:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/dudes-at-the-park-screenprint"/>
+    <title>Dudes At The Park Screenprint</title>
+    <s:type>Print</s:type>
+    <s:vendor>Danielle Kroll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Dudes_At_The_Park_Screenprint.jpg?v=1519683907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Danielle Kroll<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Free from the constraints of gravity, a group of colorfully clad skaters drop in to this cool screen print by Danielle Kroll. Inspired by California skate culture of the '80s, the four-color print from an original gouache painting makes an awesome addition to any room that could use a touch of carefree design. Each of the signed and numbered prints is screen printed in Brooklyn.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Interest_Art</s:tag>
+    <s:tag>Interest_Sports</s:tag>
+    <s:tag>Product Sustainability_Handmade</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286380421162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>SKU9923</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286380388394</id>
+    <published>2018-02-26T17:25:01-05:00</published>
+    <updated>2018-02-26T17:25:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/eiffel-tower-infographic-screenprint"/>
+    <title>Eiffel Tower Infographic Screenprint</title>
+    <s:type>Print</s:type>
+    <s:vendor>Taylor Doolittle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Eiffel_Tower_Infographic_Screenprint_1.jpg?v=1519683904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taylor Doolittle<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>Gustave Eiffel designed his eponymous and now iconic Parisian landmark the Eiffel Tower in 1889 Exposition Universelle. At the time of its completion, it was world's tallest structure and today it remains one of the most recognizable and romantic destinations in the City of Lights. Bound to win the hearts of architecture buffs and fervent Francophiles alike,<span> </span>Taylor Doolittle's graphic poster features a faithful depiction of the Eiffel Tower along with a slew of factoids about its history and legacy. Each print is available in your choice of three colorways and can add that certain<span> </span><i>je ne sais quoi</i><span> </span>to the well-designed room. Printed by hand in Columbus, Ohio.</p>
+<span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Housewarming</s:tag>
+    <s:tag>Interest_Art</s:tag>
+    <s:tag>Interest_Travel</s:tag>
+    <s:tag>Product Sustainability_Handmade</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:tag>Product Sustainability_Recycled</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286380388394</id>
+      <title>Laurel Green</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>SKU9921</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286380388394</id>
+      <title>White</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>SKU9920</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286380388394</id>
+      <title>Kraft</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>SKU9919</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286380290090</id>
+    <published>2018-02-26T17:24:57-05:00</published>
+    <updated>2018-02-26T17:24:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/empire-state-building-infographic-screenprint"/>
+    <title>Empire State Building Infographic Screenprint</title>
+    <s:type>Print</s:type>
+    <s:vendor>Taylor Doolittle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Empire_State_Building_Infographic_Screenprint_1.jpg?v=1519683900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taylor Doolittle<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Iconic, enterprising, and awe-inspiring, the Empire State Building towers over the Big Apple's skyline, its spire soaring skyward as a potent symbol of the city that never sleeps. Architect William Lamb's Art Deco dynamo is one of New York City’s most treasured architectural achievements, and from its completion date in 1931 until 1970, it was the tallest building in the world. Bound to thrill the architecture buff or urban enthusiast, Taylor Doolittle's graphic poster features a faithful depiction of the Empire State Building along with a slew of factoids about its history and legacy. Each print is available in your choice of three colorways, making it a tasteful fit in any well-designed room. Printed by hand in Columbus, Ohio.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Interest_Art</s:tag>
+    <s:tag>Interest_Travel</s:tag>
+    <s:tag>Product Sustainability_Handmade</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:tag>Product Sustainability_Recycled</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286380290090</id>
+      <title>Laurel Green</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>SKU9916</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286380290090</id>
+      <title>White</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>SKU9915</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286380290090</id>
+      <title>Kraft</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>SKU9914</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286380159018</id>
+    <published>2018-02-26T17:24:51-05:00</published>
+    <updated>2018-02-26T17:24:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/evolution-of-bicycles-pop-chart"/>
+    <title>Evolution of Bicycles Pop Chart</title>
+    <s:type>Print</s:type>
+    <s:vendor>Pop Chart Lab</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Evolution_of_Bicycles_Pop_Chart.jpg?v=1519683892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pop Chart Lab<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            41.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Whether you're a BMX rider or a Brooklyn hipster, the bicycle is more than a vehicle: it's a way of life. Chart the evolution of this two-wheeled wonder with this genealogist-approved infographic. Printed with vegetable based ink, this colorful graph includes all the famous, infamous, and sometimes ludicrous bike styles in an easy to read, historically accurate chart. Evolution may not be an exact science, but repairing a fixie certainly is. Made Ben Gibson and Patrick Mulligan in Brooklyn, NY.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Interest_Art</s:tag>
+    <s:tag>Interest_Sports</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286380159018</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.00</s:price>
+      <s:sku>SKU9913</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286379175978</id>
+    <published>2018-02-26T17:24:09-05:00</published>
+    <updated>2018-02-26T17:24:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/glass-water-faucet"/>
+    <title>Glass Water Faucet</title>
+    <s:type>Decoration</s:type>
+    <s:vendor>Gallery G Glass</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Glass_Water_Faucet.jpg?v=1519683850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gallery G Glass<br>
+        <strong>Type: </strong>Decoration<br>
+        <strong>Price: </strong>
+            77.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Have that one room in your house that's thirsty for style? This glass and metal faucet sculpture is sure to quench that thirst. Eyes will make double-takes as the flowing glass "water" will confound your guests. Handmade by <a>Gary Guydosh</a> in Pennsylvania, where glass has a distinctively rich history, this accent is created using classic glassblowing techniques and craftsmanship.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Interest_Art</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286379175978</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">77.00</s:price>
+      <s:sku>SKU9899</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286378946602</id>
+    <published>2018-02-26T17:23:58-05:00</published>
+    <updated>2018-02-26T17:23:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/great-outdoors-national-park-candles"/>
+    <title>Great Outdoors National Park Candles</title>
+    <s:type>Candle</s:type>
+    <s:vendor>Laura Reid</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Great_Outdoors_National_Park_Candles_1.jpg?v=1519683844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Laura Reid<br>
+        <strong>Type: </strong>Candle<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Each of our majestic national parks has its own sights, sounds... and scents. Laura Reid explored three parks and crafted candles from the complex character of their iconic features. The Avenue of the Giants from Redwood National Park is captured in notes of coastal redwood, bay laurel, and sea salt. The Old Faithful area of Yellowstone is portrayed with subalpine fir, thermal moss, and wild strawberry. The Yosemite Firefall phenomenon is reflected in brisk granite, fresh cedar, and black sage. Each of these layered bouquets is meticulously formulated through essential oils to bring a sense of scenic wonder and outdoor adventure to your home. <br><br>Laura also commissions a local artist to create an original watercolor illustration for each of the national park areas featured, reproduced on the recyclable paper tube packaging. Hand poured using quality coconut wax, the candles make great gifts for nature lovers and aromatherapy aficionados. <br><br>Glass and 100% recyclable packaging made in the USA; candles hand poured with lead-free cotton wicks in California.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bed &amp; Bath</s:tag>
+    <s:tag>Product Sustainability_Handmade</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286378946602</id>
+      <title>Redwood</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>SKU9897</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286378946602</id>
+      <title>Yellowstone</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>SKU9896</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286378946602</id>
+      <title>Yosemite</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>SKU9895</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286378520618</id>
+    <published>2018-02-26T17:23:47-05:00</published>
+    <updated>2018-02-26T17:23:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/hi-five-letterpress-print"/>
+    <title>Hi Five Letterpress Print</title>
+    <s:type>Print</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Hi_Five_Letterpress_Print.jpg?v=1519683829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Made it out the door in time to grab your favorite cup of joe before work? High five! Even life's little accomplishments deserve some recognition, and this cheeky and encouraging art print is always ready to give you some skin. Printed on weighted white paper, the bold red hand of this design is letter pressed for a bright and cheery finish. Made in California.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Interest_Art</s:tag>
+    <s:tag>Product Sustainability_Handmade</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286378520618</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SKU9887</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286378061866</id>
+    <published>2018-02-26T17:23:34-05:00</published>
+    <updated>2018-02-26T17:23:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/kitchen-utensil-and-tablet-holder"/>
+    <title>Kitchen Utensil &amp; Tablet Holder</title>
+    <s:type>Tablet Holder</s:type>
+    <s:vendor>STAK Ceramics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Kitchen_Utensil_and_Tablet_Holder_1.jpg?v=1519683818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STAK Ceramics<br>
+        <strong>Type: </strong>Tablet Holder<br>
+        <strong>Price: </strong>
+            84.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Heather and Myles Geyman's modern cookbook stand puts your go-to gastronomical guide out of harm's way while keeping your low-fi kitchen tools at an arm's reach. With a convenient notch specially designed to fit your tablet, the holder keeps the screen in view and your counter clutter-free. The artist slip cast the dock/holder from white stoneware that is finished with a subtle speckled glaze. Handmade in Pittsburgh, Pennsylvania.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_Cooking</s:tag>
+    <s:tag>Interest_Tech</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286378061866</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">84.00</s:price>
+      <s:sku>SKU9881</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286377832490</id>
+    <published>2018-02-26T17:23:32-05:00</published>
+    <updated>2018-02-26T17:23:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/lively-lines-by-jane-austen"/>
+    <title>Lively Lines by Jane Austen</title>
+    <s:type>Print</s:type>
+    <s:vendor>Charley Chartwell&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Lively_Lines_by_Jane_Austen.jpg?v=1519683813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Charley Chartwell&#39;s<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span>"She had a lively, playful disposition, which delighted in anything ridiculous." Jane Austen may have been referring to Elizabeth Bennett from <i>Pride and Prejudice</i>, but we think it's an acute characterization of Jane Austen herself—and perhaps you, too. In this visual taxonomy of her greatest quips by Tim and Aurelia Sanders, you'll delight in sage advice, dark humor, and quotes about your favorite characters from Mr. Darcy to Emma. Organized by novel and then further categorized by mood, the result is this charming chart that may perchance have you speaking in Georgian era English. Made in Seattle, Washington. <br><br>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Interest_Art</s:tag>
+    <s:tag>Interest_Reading</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286377832490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SKU9876</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286377373738</id>
+    <published>2018-02-26T17:23:23-05:00</published>
+    <updated>2018-02-26T17:23:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/loopy-lou-the-dj-in-a-box"/>
+    <title>Loopy Lou the DJ in a Box</title>
+    <s:type>Digital Recorder</s:type>
+    <s:vendor>BrandNewNoise</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Loopy_Lou_the_DJ_in_a_Box.jpg?v=1519683804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BrandNewNoise<br>
+        <strong>Type: </strong>Digital Recorder<br>
+        <strong>Price: </strong>
+            107.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>This playful gadget puts a digital recording tool in the palm of your hand. Hit the red record button to capture vocals or other sounds, and then manipulate them with loops and pitch-bending playback for beatboxing and all-around audio fun. The handmade wood housing with DJ turntable-inspired graphics makes this a user-friendly package that will invite endless sonic experimentation for teens and adults alike. Handmade by Richard Upchurch in Brooklyn, New York.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_Music</s:tag>
+    <s:tag>Interest_Tech</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286377373738</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">107.00</s:price>
+      <s:sku>SKU9873</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286376554538</id>
+    <published>2018-02-26T17:23:13-05:00</published>
+    <updated>2018-02-26T17:23:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/map-of-the-heavens"/>
+    <title>Map of the Heavens</title>
+    <s:type>Print</s:type>
+    <s:vendor>Rendij</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Map_of_the_Heavens.jpg?v=1519683794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rendij<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Take in the breathtaking beauty and complexity of the cosmos without even stepping out the door with Jeremy Rendina's detailed screenprint. Using three inks, he brings various Northern Hemisphere constellations to life. After dark, glow-in-the-dark stars illuminate, displaying the night sky in spectacular detail just as if you were lying in the grass staring up at the real thing in all its majesty. Handmade in Ojai, California.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Interest_Art</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286376554538</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SKU9869</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286375669802</id>
+    <published>2018-02-26T17:22:52-05:00</published>
+    <updated>2018-02-26T17:22:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/national-parks-explorer-map"/>
+    <title>National Parks Explorer Map</title>
+    <s:type>Print</s:type>
+    <s:vendor>Maddy &amp; Seth Lucas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/National_Parks_Explorer_Map_2.jpg?v=1519683776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maddy &amp; Seth Lucas<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            77.00 - 148.00
+            <a href="https://wholesale-pricing-demo.myshopify.com/products/national-parks-explorer-map">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><span>This is the perfect way to chart your adventures as you seek out some of our country's greatest treasures</span></span></p>
+<meta charset="utf-8">
+<p><span><em>—</em>its National Parks. Whenever you hit the road to explore iconic vistas or hidden gems, mark your discoveries on the map with the included, numbered tree stickers. The numbers correspond to the key at the bottom which lists all 59 current National Parks, and dares you plan a road trip just to catch the ones you've missed. The charming, retro styling of the hand silk-screened map evokes just the right balance of vintage textbook and classic adventure movie. Complete your evergreen print with a walnut frame handcrafted in Chicago. The contemporary, magnetic panels attach with a safe and secure clamp. Print designed in Brooklyn, New York. Printed in Kansas.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Interest_Art</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286375669802</id>
+      <title>Print Only</title>
+      <s:price currency="CAD">77.00</s:price>
+      <s:sku>SKU9860</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286375669802</id>
+      <title>Print + Hanging Rails</title>
+      <s:price currency="CAD">148.00</s:price>
+      <s:sku>SKU9859</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286375473194</id>
+    <published>2018-02-26T17:22:50-05:00</published>
+    <updated>2018-02-26T17:22:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/new-york-marathon-map"/>
+    <title>New York Marathon Map</title>
+    <s:type>Print</s:type>
+    <s:vendor>Capehorn Illustration</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/New_York_Marathon_Map.jpg?v=1519683772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Capehorn Illustration<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><span>The New York marathon doesn't just run through all five boroughs</span></span><em>—</em>it brings the city to a festive standstill for roughly seven hours. Fans cheer on runners from apartment windows and fire escapes, while the runners get beautiful city views as they take the Verrazano and Queensboro Bridges by storm. Artist and runner Phil Thompson captures this electric energy in this hand drawn marathon route map.</p>
+<p><span><br>Starting on Staten Island, straight down Brooklyn's 4th Avenue, and finishing in Central Park, the illustrated route shows a lively snapshot of the day's events. Perfect for avid runners or those with their sights set on New York's finish line, this beautiful illustration showcases a day when the city comes together to cheer on 26.2 miles. Designed and printed in Chicago, Illinois.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Interest_Art</s:tag>
+    <s:tag>Product Sustainability_Handmade</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286375473194</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>SKU9858</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286375309354</id>
+    <published>2018-02-26T17:22:47-05:00</published>
+    <updated>2018-02-26T17:22:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/octopus-wall-hook"/>
+    <title>Octopus Wall Hook</title>
+    <s:type>Wall Hook</s:type>
+    <s:vendor>Thing Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Octopus_Wall_Hook.jpg?v=1519683769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thing Industries<br>
+        <strong>Type: </strong>Wall Hook<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Usually reclusive creatures, octopi can be coaxed to hang out and be helpful with holding coats, bags, and off-season mermaid costumes. These powder-coated steel double wall hooks offer a charming alternative to standard hardware for mud rooms, closets, and under-the-sea playrooms. Easily installed with the included mounting hardware, they'll reach out as if to hug your duds at the end of the day. Made in Los Angeles.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Interest_Animals</s:tag>
+    <s:tag>Interest_Funny</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286375309354</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SKU9854</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286374817834</id>
+    <published>2018-02-26T17:22:37-05:00</published>
+    <updated>2018-02-26T17:22:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/old-fashioned-carry-on-cocktail-kit"/>
+    <title>Old Fashioned Carry-On Kit</title>
+    <s:type>Kit</s:type>
+    <s:vendor>W&amp;P Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Old_Fashioned_Carry-On_Cocktail_Kit.jpg?v=1519683758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>W&amp;P Design<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Make it a smooth flight with Old Fashioneds for two when you carry on this personal cocktail kit. The kit will sail through security and supply you with everything you need to practice your mixology at 30,000 feet: pure cane sugar, small batch bitters, and a mini bar spoon/muddler. Just order a mini bottle of rye, and mix up a classic, jet set cocktail at your personal, one-seat bar. The flight-themed tin and linen coaster add a dash of first-class flair to the affair. Consumables sourced in the USA; kit developed and assembled in the USA.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Food &amp; Drink</s:tag>
+    <s:tag>Interest_Travel</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286374817834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>SKU9853</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286374457386</id>
+    <published>2018-02-26T17:22:28-05:00</published>
+    <updated>2018-02-26T17:22:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/palmistry-hand-screenprint"/>
+    <title>Palmistry Hand Screenprint</title>
+    <s:type>Print</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Palmistry_Hand_Screenprint.jpg?v=1519683749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Let the future lie in your hands figuratively <i>and</i> literally with this palmistry screenprint. Signed and dated by the artist, this wall art piece details the meaning of the lines in our palms and the predictions they may hold. Whether you find palm reading fun or fundamental to your future, this mesmerizing design's astrological elements and cultural roots add a mystical presence to your decor. Made in Canada.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Interest_Art</s:tag>
+    <s:tag>Product Sustainability_Handmade</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286374457386</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>SKU9843</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286373605418</id>
+    <published>2018-02-26T17:22:07-05:00</published>
+    <updated>2018-02-26T17:22:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/plush-organs"/>
+    <title>Plush Organs</title>
+    <s:type>Plush</s:type>
+    <s:vendor>I Heart Guts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Plush_Organs_1.jpg?v=1519683730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>I Heart Guts<br>
+        <strong>Type: </strong>Plush<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>It takes a lot of guts to share what you've got going on inside, but these plush pals give tough topics—from sickness to surgery—a soft touch. Wendy Bryan, an anatomically obsessed illustrator who loves internal organs and all their functions, organ-ized this charming line of stuffed guts that are designed to keep things light. <br><br>While each organ makes a great substitution for a get-well card, these adorable innards are also the perfect pals for paediatricians, psychologists, and surgeons to prop in their offices or waiting rooms to help ease the tension for patients of all ages. In your home, each personality-packed toy can also give even the littlest pre-pre-med student a jump-start. No matter how you use them, these squishy anatomical specimens will leave you in stitches. Designed in California. Made in China.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Interest_Funny</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286373605418</id>
+      <title>Brain</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SKU9837</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286373605418</id>
+      <title>Lungs</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SKU9836</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286373605418</id>
+      <title>Colon</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SKU9835</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286373605418</id>
+      <title>Bladder</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SKU9834</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286373605418</id>
+      <title>Uterus</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SKU9833</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286373605418</id>
+      <title>Spleen</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SKU9832</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286373605418</id>
+      <title>Heart</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SKU9831</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286373605418</id>
+      <title>Kidney</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SKU9830</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286373605418</id>
+      <title>Gall Bladder</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SKU9829</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286373605418</id>
+      <title>Liver</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SKU9828</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286373605418</id>
+      <title>Rectum</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SKU9827</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286373605418</id>
+      <title>Stomach</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SKU9826</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

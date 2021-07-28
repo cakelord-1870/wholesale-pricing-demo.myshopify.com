@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesale-pricing-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesale-pricing-demo.myshopify.com/collections/games.atom"/>
+  <title>Wholesale Club by Pixel Union</title>
+  <updated>2018-02-26T17:26:48-05:00</updated>
+  <author>
+    <name>Wholesale Club by Pixel Union</name>
+  </author>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286384123946</id>
+    <published>2018-02-26T17:26:48-05:00</published>
+    <updated>2018-02-26T17:26:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/bards-dispense-profanity-game"/>
+    <title>Bards Dispense Profanity Game</title>
+    <s:type>Game</s:type>
+    <s:vendor>Why So Ever</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Bards_Dispense_Profanity_Game_1.jpg?v=1519684012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Why So Ever<br>
+        <strong>Type: </strong>Game<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>The judge presents a yellow card, your fellow kitchen-table thespians respond, and before you know it, you've got "If music be the food of <i>ill-shaped fishes,</i> play on". A laugh-till-you-cry look at the Bard's smutty side, the raunchy hilarity of this game knows no bounds. Invented by an English professor and his students, this adult card game asks the low-brow literary question, "To be profane, or not to be?" It includes 100 mock-serious questions for our time and 375 responses drawn word-for-word from the works of William Shakespeare. For four or more over-educated adult players only. Designed by Tim Cassedy, Chelsea Grogan, Jenna Peck, and Kate Petsche. Made in Texas.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Games</s:tag>
+    <s:tag>Interest_Entertaining</s:tag>
+    <s:tag>Interest_Funny</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:tag>Product Sustainability_Recycled</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286384123946</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SKU9975</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286382813226</id>
+    <published>2018-02-26T17:26:15-05:00</published>
+    <updated>2018-02-26T17:26:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/bounce-battle-game"/>
+    <title>Bounce Battle Game</title>
+    <s:type>Game</s:type>
+    <s:vendor>Bounce Battle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Bounce_Battle_Game.jpg?v=1519683976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bounce Battle<br>
+        <strong>Type: </strong>Game<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>You have to pick your battles, but sometimes the key to winning them is all in the wrist. Whether it's 3D Tic-Tac-Toe or H-O-R-S-E, this set invites you to try your hand (and your luck) at a variety of ping pong play by bouncing balls into the wooden grid. Easy to learn, this showdown of orange versus white balls offers bounce after bounce of fast-paced fun and dozens of ways to battle, including Alphabet Soup, Nine Cup, Level Out, and more. It's a great game of skill and strategy for tailgating or family game nights. Made in China.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Games</s:tag>
+    <s:tag>Interest_Entertaining</s:tag>
+    <s:tag>Product Sustainability_Handmade</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286382813226</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SKU9964</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286382125098</id>
+    <published>2018-02-26T17:26:00-05:00</published>
+    <updated>2018-02-26T17:26:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/circuit-racer-magnetic-block-set"/>
+    <title>Circuit Racer Magnetic Block Set</title>
+    <s:type>Block Set</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Circuit_Racer_Magnetic_Block_Set_1.jpg?v=1519683964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Block Set<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>The future is now, and it's rolling swiftly and silently on an endless, renewable power supply: your imagination! The Circuit Racer block set can go from zero to fun in seconds, and can transform into various vehicles in the electric fleet, robots, power plants, and more. The futuristic fun is unlimited, thanks to the force fields provided by magnets built into these hardwood blocks. Made by an organization in Honduras that uses responsibly-harvested wood, these blocks are supercharged with social and environmental benefits. Made in Tegucigalpa, Honduras.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Games</s:tag>
+    <s:tag>Product Sustainability_Handmade</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286382125098</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>SKU9953</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286381142058</id>
+    <published>2018-02-26T17:25:26-05:00</published>
+    <updated>2018-02-26T17:25:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/darwins-dinosaur-egg-puzzle"/>
+    <title>Darwin&apos;s Dinosaur Egg Puzzle</title>
+    <s:type>Puzzle</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Darwin_s_Dinosaur_Egg_Puzzle_1.jpg?v=1519683928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Puzzle<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Evolve your brain power with the Darwin's Dinosaur Egg puzzle. This brain-teasing puzzle from the Great Minds series will test your mental mettle as you attempt to rebuild the egg from its pieces. Perfect for anyone in your life with a vivid imagination and an active mind, this puzzle is inspired by Charles Darwin, whose theory of natural selection revolutionized how we think about our origins and still sparks controversy to this day.</span></p>
+<p><span>Each puzzle reflects an aspect of the "Great Mind" who inspired it, as well as a brief history of their life and achievements, combining learning and play. An ideal gift for any science whiz or history maven, keep this alluring brain teaser out in the open—it'll attract and keep the attention of your friends! Made in China.</span></p>
+<p><span>Designed to engage the psyche, the Great Minds series brings together intellectually stimulating puzzles with some of the greatest thinkers from throughout history. Each puzzle reflects an aspect of the "Great Mind" who inspired it, as well as a brief history of their life and achievements, combining learning and play. Perfect for any science whizz or history maven, keep these alluring puzzles out in the open—they'll attract and keep the attention of your friends! Made in China.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Games</s:tag>
+    <s:tag>Interest_Entertaining</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286381142058</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>SKU9930</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286380257322</id>
+    <published>2018-02-26T17:24:56-05:00</published>
+    <updated>2018-02-26T17:24:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/emergency-clown-nose"/>
+    <title>Emergency Clown Nose</title>
+    <s:type>Clown Nose</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Emergency_Clown_Nose.jpg?v=1519683896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Clown Nose<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>At last, the healing power of comedy is available in an over-the-counter form. Apply liberally as needed. Side effects may include chuckling, chortling, guffawing and acute shortness of breath. If clowning lasts for more than four hours, please consult a physician. Nose made in China; container made in USA.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Games</s:tag>
+    <s:tag>Interest_Entertaining</s:tag>
+    <s:tag>Interest_Funny</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286380257322</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>SKU9917</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286379667498</id>
+    <published>2018-02-26T17:24:26-05:00</published>
+    <updated>2018-02-26T17:24:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/foodie-dice"/>
+    <title>Foodie Dice</title>
+    <s:type>Dice</s:type>
+    <s:vendor>Foodie Dice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Foodie_Dice_1.jpg?v=1519683868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Foodie Dice<br>
+        <strong>Type: </strong>Dice<br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Whether you're new to the kitchen and need some ideas, or you're a seasoned chef looking to shake things up, these foodie dice make sure that no two meals are alike. Laser engraved on wood, five primary dice offer protein options, cooking methods, grain/carb selections, herb choices, and bonus ingredients. Four additional dice offer seasonal veggies to spice up your dish. Simply roll and accept your challenge. With over 186,000 possible combinations, this foodie essential comes in a cotton muslin drawstring pouch and sparks creativity in the kitchen while inviting you to take a gamble with family dinner. Designed by </span>Liz and Sarah Downey. M<span>ade in the USA.</span></p>
+<meta charset="utf-8">
+<p><span>This is a demo store. You can purchase products like this from <a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Games</s:tag>
+    <s:tag>Interest_Cooking</s:tag>
+    <s:tag>Interest_Entertaining</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286379667498</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>SKU9908</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286379601962</id>
+    <published>2018-02-26T17:24:24-05:00</published>
+    <updated>2018-02-26T17:24:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/foreign-language-blocks"/>
+    <title>Foreign Language Blocks</title>
+    <s:type>Blocks</s:type>
+    <s:vendor>Uncle Goose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Foreign_Language_Blocks_1.jpg?v=1519683866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uncle Goose<br>
+        <strong>Type: </strong>Blocks<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Bringing up a bilingual baby will be as easy as uno, dos, tres with these beautifully made alphabet blocks in Spanish, Mandarin, and Italian. Each block is embossed to give it a classic look inspired by traditional blocks. They are handcrafted in Michigan of Basswood grown in the Great Lakes area and printed with non-toxic inks. The blocks feature beveled edges for a more comfortable hold.</span></p>
+<meta charset="utf-8">
+<p><span>This is a demo store. You can purchase products like this from <a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Games</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286379601962</id>
+      <title>Mandarin</title>
+      <s:price currency="CAD">52.00</s:price>
+      <s:sku>SKU9907</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286379601962</id>
+      <title>Spanish</title>
+      <s:price currency="CAD">52.00</s:price>
+      <s:sku>SKU9906</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286379372586</id>
+    <published>2018-02-26T17:24:10-05:00</published>
+    <updated>2018-02-26T17:24:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/genius-dice"/>
+    <title>Genius Dice</title>
+    <s:type>Dice</s:type>
+    <s:vendor>Boxwood</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Genius_Dice_1.jpg?v=1519683857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boxwood<br>
+        <strong>Type: </strong>Dice<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Dice have been around for thousands of years, but artist William Manke still found a way to rethink the familiar numbered squares. His clever design shows the face value of each side with 1 to 6 wood segments of different color tones, made of walnut, maple, and cherry wood. Handsome enough to display when they're not involved in games of Backgammon, Bunco, Farkle, Yahtzee, Craps, or Pig, these beautifully crafted pieces make wonderful gifts for game lovers, woodworking fans, and anyone with an appreciation for exquisite small objects. Handmade in Lakewood, Colorado.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Games</s:tag>
+    <s:tag>Interest_Art</s:tag>
+    <s:tag>Product Sustainability_Handmade</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286379372586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SKU9900</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286377308202</id>
+    <published>2018-02-26T17:23:17-05:00</published>
+    <updated>2018-02-26T17:23:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/magbot-magnetic-block-set"/>
+    <title>Magbot Magnetic Block Set</title>
+    <s:type>Block Set</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Magbot_Magnetic_Block_Set_1.jpg?v=1519683803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Block Set<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Let your little ones' imaginations run wild with this vibrant set of magnetic blocks. Made from sustainably harvested wood, each block is printed with nuts and bolts to form a charmingly nostalgic robot. Made in Honduras.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Games</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286377308202</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>SKU9872</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286376620074</id>
+    <published>2018-02-26T17:23:14-05:00</published>
+    <updated>2018-02-26T17:23:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/magnetic-fidget-sphere"/>
+    <title>Magnetic Fidget Sphere</title>
+    <s:type>Fidget Sphere</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Magnetic_Fidget_Spheres_1.jpg?v=1519683795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Fidget Sphere<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Stretch, squash, mold, and mix your way to pure, tactile satisfaction with this set of 512 rare earth magnets. Don't let appearances fool you: the cluster of tiny spheres is more than just a collection of super-strong neodymium magnets—it's a hand-held science experiment, an entrancing exploration of geometry, and an addictive addition to your desktop. The constantly morphing mass is perfect for pensive adults with fidgeting fixations. Made in China.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Games</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286376620074</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SKU9871</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286374096938</id>
+    <published>2018-02-26T17:22:20-05:00</published>
+    <updated>2018-02-26T17:22:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/periodic-table-building-blocks"/>
+    <title>Periodic Table Building Blocks</title>
+    <s:type>Blocks</s:type>
+    <s:vendor>Uncle Goose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Periodic_Table_Building_Blocks.jpg?v=1519683742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uncle Goose<br>
+        <strong>Type: </strong>Blocks<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Perfect for the young scientist, these cubes are literal building blocks for an education in chemistry. The set includes 20 six-sided colored blocks that contain the 118 elements found on the periodic table. The six sides contain a unique element's name, atomic number and symbol in bright blue, purple, green, red, orange or pink. Handcrafted in Michigan of Basswood grown in the Great Lakes area and printed with non-toxic inks.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Games</s:tag>
+    <s:tag>Interest_Geek</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286374096938</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>SKU9841</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286369017898</id>
+    <published>2018-02-26T17:20:56-05:00</published>
+    <updated>2018-02-26T17:20:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/super-nerdy-abc-blocks"/>
+    <title>Super Nerdy ABC Blocks</title>
+    <s:type>Blocks</s:type>
+    <s:vendor>Uncle Goose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Super_Nerdy_ABC_Blocks.jpg?v=1519683657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uncle Goose<br>
+        <strong>Type: </strong>Blocks<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span><span>A is for absolute zero... B is for binary... Give your little genius the building blocks of scientific knowledge</span></span><em>—</em>from Atom to Zeolite<em>—</em>with Tiffany Ard's geeky set of blocks. These classic, colorful cubes feature all 26 letters of the alphabet on one face, amazing, illustrated terms from the universe of science on the other five, and two bonus blocks showing decimals and powers of 10. Handcrafted in Michigan from local basswood; printed with nontoxic inks.</p>
+<p><span>This is a demo store. </span><span>You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Games</s:tag>
+    <s:tag>Interest_Geek</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286369017898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku>SKU9796</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286366363690</id>
+    <published>2018-02-26T17:20:04-05:00</published>
+    <updated>2018-02-26T17:20:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/wooden-dice-set"/>
+    <title>Wooden Dice Set</title>
+    <s:type>Dice</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Wooden_Dice_Set_1.jpg?v=1519683606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Dice<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Made from sustainably harvested rosewood with inlaid brass pips, this set of five dice can be used for a variety of classic games, or swapped into almost any board game for an instant upgrade. Presented in a matching clamshell box, the set makes a great housewarming or groomsman's gift, and look stately even on display. Handmade in India.</span></p>
+<p><span>This is a demo store. </span><span>You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Games</s:tag>
+    <s:tag>Product Sustainability_Handmade</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286366363690</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>SKU9768</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286366265386</id>
+    <published>2018-02-26T17:20:01-05:00</published>
+    <updated>2018-02-26T17:20:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/yoga-joes"/>
+    <title>Yoga Joes</title>
+    <s:type>Toy Soldiers</s:type>
+    <s:vendor>Yoga Joes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Yoga_Joes_1.jpg?v=1519683603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Joes<br>
+        <strong>Type: </strong>Toy Soldiers<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>This troop's mission? To keep <i>inner</i> peace. Designer Dan Abramson looked to a favorite childhood toy to help inspire grown-ups to get into yoga. Armed with a general knowledge of the practice, this platoon of posing servicemen show off their secret weapon: major strength and flexibility. Give the battalion to the disciplined yogi or well-balanced lieutenant in your life, or keep them in your barracks as a reminder to soldier on through your basic (yoga) training. Packaged in a "mini yoga studio" box with a bamboo floor. Made of ABS plastic in China.</span></p>
+<p><span>This is a demo store. </span><span>You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Games</s:tag>
+    <s:tag>Interest_Funny</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286366265386</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SKU9766</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286366167082</id>
+    <published>2018-02-26T17:19:57-05:00</published>
+    <updated>2018-02-26T17:19:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/yard-dominos"/>
+    <title>Yard Dominos</title>
+    <s:type>Dominos</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Yard_Dominoes_1.jpg?v=1519683599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Dominos<br>
+        <strong>Price: </strong>
+            84.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Bring the family together for some larger-than-life competition at the beach, at a picnic, or just at home with these oversized dominoes. Hand made from solid pine wood, each piece is sanded before the pips are hot iron branded into each side. Each set comes in a rustic drawstring bag and includes 28 dominoes, from double blanks to double sixes. Handmade in Minneapolis, MN.</span></p>
+<p><span>This is a demo store. </span><span>You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Games</s:tag>
+    <s:tag>Interest_Entertaining</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286366167082</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">84.00</s:price>
+      <s:sku>SKU9767</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286366134314</id>
+    <published>2018-02-26T17:19:54-05:00</published>
+    <updated>2018-02-26T17:19:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/zip-zap-magnetic-block-set"/>
+    <title>Zip Zap Magnetic Block Set</title>
+    <s:type>Block Set</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Zip_Zap_Magnetic_Block_Set_1.jpg?v=1519683597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Block Set<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>It's not that Zip Zap doesn't like the company of other monsters, he just prefers the peace and quiet of solo activities like kite flying and strolling in the park. If it wasn't for him, the town train wouldn't run on time, and no one would enjoy his grandiose tales like <i>The Mutant and the Behemoth.</i><br><br>To an adult, these are whimsical wooden blocks, but to a child, this is Zip Zap: the nap loving, story telling monster. Your little one can mix and match Zip Zap's magnetic body parts to suit his various duties, from train conducting to time traveling. He'll stick by your small fry (and to fridges, washing machines, and spoons) through every imaginary adventure. Made from sustainably harvested wood and non-toxic materials in Honduras.</span></p>
+<p><span>This is a demo store. </span><span>You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Games</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286366134314</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku>SKU9764</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

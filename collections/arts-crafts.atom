@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesale-pricing-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesale-pricing-demo.myshopify.com/collections/arts-crafts.atom"/>
+  <title>Wholesale Club by Pixel Union</title>
+  <updated>2018-02-26T17:26:30-05:00</updated>
+  <author>
+    <name>Wholesale Club by Pixel Union</name>
+  </author>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286383403050</id>
+    <published>2018-02-26T17:26:30-05:00</published>
+    <updated>2018-02-26T17:26:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/birdie-yarn-bowl"/>
+    <title>Birdie Yarn Bowl</title>
+    <s:type>Bowl</s:type>
+    <s:vendor>Aaharrison Ceramics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Birdie_Yarn_Bowl_1.jpg?v=1519683992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aaharrison Ceramics<br>
+        <strong>Type: </strong>Bowl<br>
+        <strong>Price: </strong>
+            67.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Your knitting circle just got a little sweeter. With a hand-sculpted sparrow perched along its edge, Aaron A. Harrison's stoneware bowl keeps skeins of yarn in place while you knit, crochet, or weave. A hooked opening allows the yarn to unfurl in a steady stream, and holes pierced in the bowl's side offer a convenient resting spot for needles between knits and purls. A little bird told us that this is the perfect crafting companion for when you're creating your own homespun creations for all your close-knits. Handmade in upstate New York.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_Crafts</s:tag>
+    <s:tag>Product Sustainability_Handmade</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286383403050</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">67.00</s:price>
+      <s:sku>SKU9967</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286383009834</id>
+    <published>2018-02-26T17:26:19-05:00</published>
+    <updated>2018-02-26T17:26:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/build-your-own-marble-coaster"/>
+    <title>Build Your Own Marble Coaster</title>
+    <s:type>Coaster</s:type>
+    <s:vendor>Tinkineer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Build_Your_Own_Marble_Coaster_1.jpg?v=1519683981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tinkineer<br>
+        <strong>Type: </strong>Coaster<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Take your imagination on a DIY ride full of dips, turns, and daredevil demonstrations of physics and engineering with this laser-cut wood roller coaster kit. With no special tools (just household white glue), more than 30 Baltic birch pieces come together to make a mini marble coaster. Powered by a hand crank, the DIY thrill ride runs on kid power instead of batteries, and includes engaging instructions in graphic novel form to make building it half the fun. This playful kinetic sculpture makes a great gift for tinkerers young and old. Ages 9+. Designed by Adam Hocherman. Made in Beverly, Massachusetts.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_Crafts</s:tag>
+    <s:tag>Interest_DIY</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286383009834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>SKU9959</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286382878762</id>
+    <published>2018-02-26T17:26:16-05:00</published>
+    <updated>2018-02-26T17:26:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/build-your-own-pinhole-camera-kit"/>
+    <title>Build Your Own Pinhole Camera Kit</title>
+    <s:type>Camera</s:type>
+    <s:vendor>Viddy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Build_Your_Own_Pinhole_Camera_Kit_1.jpg?v=1519683979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viddy<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            66.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>With no special tools (just household white glue), more than 20 cardboard pieces come together to make a functional pinhole camera. This playful camera makes a great gift for tinkerers young and old. Ages 9+. Made in Beverly, Massachusetts.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_Crafts</s:tag>
+    <s:tag>Interest_DIY</s:tag>
+    <s:tag>Interest_Photography</s:tag>
+    <s:tag>Product Sustainability_Made in USA</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286382878762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">66.00</s:price>
+      <s:sku>SKU9958</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286380879914</id>
+    <published>2018-02-26T17:25:20-05:00</published>
+    <updated>2018-02-26T17:25:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/diy-wildflower-seed-ball-kit"/>
+    <title>DIY Wildflower Seed Ball Kit</title>
+    <s:type>Kit</s:type>
+    <s:vendor>Seedles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/DIY_Wildflower_Seed_Ball_Kit.jpg?v=1519683922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seedles<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>This DIY kit lets you make your own little botanical bombs that explode into rainbows of color when deployed in your garden. It includes organic homemade compost, native non-GMO wildflower seeds for your growing region of choice, red clay, and step-by-step instructions to form your own seed balls. A great gift for curious kids or adult guerilla gardeners, it's a smile-sprouting, interactive way to make money-saving seed starters. Handmade by Christopher Burley in California.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_DIY</s:tag>
+    <s:tag>Interest_Gardening</s:tag>
+    <s:tag>Product Sustainability_Fair Trade Certified</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286380879914</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>SKU9924</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286380748842</id>
+    <published>2018-02-26T17:25:15-05:00</published>
+    <updated>2018-02-26T17:25:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/diy-terrarium-kit"/>
+    <title>DIY Terrarium Kit</title>
+    <s:type>Kit</s:type>
+    <s:vendor>The Lucky Gardener</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/The_Lucky_Gardener_DIY_Terrarium_Kit_1.jpg?v=1519683918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lucky Gardener<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Designed by terrarium artists Michelle Inciarrano and Katy Maslow, this kit includes everything you'll need to create your own thriving, self-contained world from the ground up. From the hardy terrarium plant seeds to the proprietary soil mix, each aspect of this DIY conservatory was coordinated through the conjunction of art, science and design to help the timid terrarium-maker or bad news botanist. The handsome glass and wood vessel includes detailed instructions, packets of all the necessary terrarium layers, and embellishments such as black lichen, reindeer moss, lichen branch, and a couple of cute bunnies for extra luck. You'll be the architect of your own verdant tabletop realm in no time! Handmade in Brooklyn.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_DIY</s:tag>
+    <s:tag>Interest_Gardening</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286380748842</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">120.00</s:price>
+      <s:sku>SKU9925</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286376390698</id>
+    <published>2018-02-26T17:23:07-05:00</published>
+    <updated>2018-02-26T17:23:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/mason-jar-indoor-herb-garden"/>
+    <title>Mason Jar Indoor Herb Garden</title>
+    <s:type>Herb Garden</s:type>
+    <s:vendor>Modern Sprout</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/Mason_Jar_Indoor_Herb_Garden_1.jpg?v=1519683790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Modern Sprout<br>
+        <strong>Type: </strong>Herb Garden<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>When chefs say fresh herbs make all the difference, they speak the truth. But where does that leave those of us with no garden, no time, and no green thumb? Harvest all that flavor with very little work with Sarah Burrows and Nick Behr's tinted, vintage-inspired jars. They're pure charm on the outside, but inside use a passive hydroponic system that brings nutrients up to the plants' roots while regulating moisture. There's no guesswork over whether the soil has the right amount of water. Plant the included seeds of your choice, put water in the reservoir, place the jar in a sunny window, and get growing. Assembled in the USA.</span></p>
+<p><span>This is a demo store. You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Interest_Cooking</s:tag>
+    <s:tag>Interest_DIY</s:tag>
+    <s:tag>Interest_Gardening</s:tag>
+    <s:tag>Product Sustainability_Organically Grown</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286376390698</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SKU9867</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286367051818</id>
+    <published>2018-02-26T17:20:19-05:00</published>
+    <updated>2018-02-26T17:20:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/what-i-love-about-dad-by-me"/>
+    <title>What I Love About Dad By Me</title>
+    <s:type>Book</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/What_I_Love_About_Dad_By_Me_Book_1.jpg?v=1519683621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Book<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>From his common sense brand of wisdom to his secret ingredient chili, there's a lot to love about dad. Show him how much you appreciate the abundant advice, forgiving nature, and good looks he passed on to you with this pocket-sized prompt book. It offers 50 sentence starters for you to fill in and give as an unforgettable gift. Made in China.</span></p>
+<p><span>This is a demo store. </span><span>You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Books</s:tag>
+    <s:tag>Interest_DIY</s:tag>
+    <s:tag>Interest_Reading</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286367051818</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>SKU9774</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale-pricing-demo.myshopify.com/products/1286366953514</id>
+    <published>2018-02-26T17:20:13-05:00</published>
+    <updated>2018-02-26T17:20:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale-pricing-demo.myshopify.com/products/what-i-love-about-mom-by-me"/>
+    <title>What I Love About Mom By Me</title>
+    <s:type>Book</s:type>
+    <s:vendor>UncommonGoods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0001/8140/3690/products/What_I_Love_About_Mom_By_Me_Book_1.jpg?v=1519683619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UncommonGoods<br>
+        <strong>Type: </strong>Book<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><span>F</span></span>rom her endless words of wisdom to her heavenly chicken parm, there's a lot to love about mom. Show her how much you appreciate the late night advice on fixing your at-home hair dye disaster, her forgiving nature, and the amazing genes she passed on to you with this pocket-sized prompt book, offering pages of sentence starters for you to fill in and gift. Made in China.</p>
+<p><span>This is a demo store. </span><span>You can purchase products like this from </span><a href="https://www.uncommongoods.com/" target="_blank" rel="noopener noreferrer">UncommonGoods</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Books</s:tag>
+    <s:tag>Interest_DIY</s:tag>
+    <s:tag>Interest_Reading</s:tag>
+    <s:variant>
+      <id>https://wholesale-pricing-demo.myshopify.com/products/1286366953514</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>SKU9773</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
